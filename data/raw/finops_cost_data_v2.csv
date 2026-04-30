@@ -1,0 +1,1801 @@
+date,account_id,service,region,environment,cost_usd,usage_type,pricing_model,project,owner,currency
+2026-01-01,1860,Amazon RDS,eu-central-1,Production,79.07,Compute,Spot,Analytics,DevOps,USD
+2026-01-01,1458,AWS Lambda,us-east-1,Production,6.96,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-01,1276,Amazon RDS,us-east-1,QA,54.85,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-01,1475,Amazon S3,eu-central-1,QA,13.61,Storage,Spot,WebApp,Miguel,USD
+2026-01-01,1484,AWS Lambda,eu-central-1,Production,21.2,Network,Reserved,FinOps,DataTeam,USD
+2026-01-01,1776,Amazon S3,us-west-2,Dev,26.93,Network,Spot,FinOps,DevOps,USD
+2026-01-01,1205,AWS Lambda,us-east-1,QA,67.94,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-01,1771,Amazon S3,us-west-2,Dev,97.11,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-01,1269,Amazon RDS,eu-central-1,Production,13.41,Network,On-Demand,Analytics,Miguel,USD
+2026-01-01,1337,CloudFront,eu-central-1,Dev,60.74,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-01,1064,CloudFront,us-east-1,Production,45.22,Compute,Spot,WebApp,DevOps,USD
+2026-01-01,1391,Amazon EC2,eu-central-1,Production,78.27,Compute,Reserved,WebApp,DataTeam,USD
+2026-01-01,1027,Amazon EC2,eu-central-1,Dev,64.21,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-01,1098,CloudFront,us-west-2,Production,58.32,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-01,1768,AWS Lambda,us-east-1,QA,27.42,Storage,Spot,WebApp,Miguel,USD
+2026-01-01,1553,Amazon S3,us-east-1,Production,7.99,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-01,1406,CloudFront,eu-central-1,Dev,56.28,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-01,1085,AWS Lambda,us-west-2,QA,81.77,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-01,1639,AWS Lambda,us-west-2,Production,90.13,Network,Reserved,FinOps,Miguel,USD
+2026-01-01,1282,Amazon EC2,us-west-2,Dev,82.71,Compute,Spot,WebApp,DataTeam,USD
+2026-01-02,1648,AWS Lambda,us-west-2,Dev,70.78,Storage,Spot,WebApp,DataTeam,USD
+2026-01-02,1691,Amazon EC2,us-east-1,QA,97.32,Storage,Spot,Analytics,DevOps,USD
+2026-01-02,1612,Amazon EC2,us-east-1,Dev,30.34,Storage,Reserved,Analytics,DevOps,USD
+2026-01-02,1735,CloudFront,us-east-1,Dev,27.76,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-02,1438,Amazon RDS,eu-central-1,Production,28.01,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-02,1510,AWS Lambda,us-east-1,Dev,35.47,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-02,1402,Amazon RDS,us-west-2,Production,81.9,Network,On-Demand,FinOps,DevOps,USD
+2026-01-02,1871,Amazon S3,us-east-1,Production,37.4,Compute,Reserved,WebApp,DevOps,USD
+2026-01-02,1610,Amazon S3,eu-central-1,QA,98.31,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-02,1452,Amazon RDS,us-east-1,Production,22.93,Compute,Spot,WebApp,DevOps,USD
+2026-01-02,1151,Amazon RDS,us-west-2,Dev,65.99,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-02,1111,AWS Lambda,us-west-2,Dev,68.03,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-02,1821,Amazon S3,eu-central-1,Dev,26.31,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-02,1503,Amazon RDS,eu-central-1,Production,67.47,Compute,Spot,WebApp,DataTeam,USD
+2026-01-02,1562,CloudFront,us-west-2,Production,46.27,Compute,Reserved,FinOps,DevOps,USD
+2026-01-02,1452,Amazon EC2,us-east-1,Production,59.34,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-02,1517,CloudFront,eu-central-1,Dev,95.54,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-02,1699,AWS Lambda,us-east-1,Production,34.04,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-02,1734,Amazon EC2,us-west-2,QA,93.35,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-02,1638,Amazon S3,eu-central-1,QA,88.35,Compute,On-Demand,FinOps,DevOps,USD
+2026-01-03,1681,CloudFront,eu-central-1,QA,81.96,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-03,1035,Amazon EC2,us-east-1,Dev,11.74,Storage,Reserved,WebApp,DevOps,USD
+2026-01-03,1353,Amazon RDS,us-west-2,Production,68.84,Network,On-Demand,Analytics,DevOps,USD
+2026-01-03,1149,CloudFront,us-west-2,QA,7.9,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-03,1443,AWS Lambda,us-east-1,Dev,83.65,Compute,Spot,Analytics,Miguel,USD
+2026-01-03,1349,Amazon RDS,eu-central-1,Production,65.56,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-03,1656,AWS Lambda,eu-central-1,Production,46.7,Network,Reserved,FinOps,DataTeam,USD
+2026-01-03,1829,CloudFront,eu-central-1,Production,71.12,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-03,1750,Amazon EC2,us-west-2,QA,13.92,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-03,1998,CloudFront,eu-central-1,Dev,63.11,Network,Spot,Analytics,DevOps,USD
+2026-01-03,1085,CloudFront,us-east-1,Dev,16.03,Compute,Spot,FinOps,DataTeam,USD
+2026-01-03,1452,Amazon RDS,us-west-2,QA,51.7,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-03,1022,CloudFront,us-west-2,QA,95.17,Storage,Spot,Analytics,DataTeam,USD
+2026-01-03,1441,AWS Lambda,us-east-1,Dev,69.98,Network,Reserved,FinOps,DevOps,USD
+2026-01-03,1663,Amazon RDS,us-west-2,Production,66.11,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-03,1267,CloudFront,eu-central-1,Dev,96.31,Storage,Spot,FinOps,Miguel,USD
+2026-01-03,1606,Amazon RDS,us-west-2,QA,8.7,Storage,Spot,WebApp,Miguel,USD
+2026-01-03,1775,Amazon S3,us-east-1,QA,69.75,Storage,Reserved,WebApp,Miguel,USD
+2026-01-03,1825,Amazon RDS,us-east-1,QA,64.75,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-03,1675,Amazon EC2,us-west-2,Dev,76.31,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-04,1998,Amazon EC2,eu-central-1,QA,58.38,Compute,Spot,FinOps,DevOps,USD
+2026-01-04,1866,Amazon EC2,us-east-1,QA,90.74,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-04,1018,AWS Lambda,us-east-1,Dev,91.01,Compute,Spot,Analytics,DevOps,USD
+2026-01-04,1850,Amazon RDS,us-west-2,Production,12.91,Compute,Spot,FinOps,DevOps,USD
+2026-01-04,1483,CloudFront,us-east-1,Production,79.22,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-04,1934,Amazon S3,us-west-2,Production,10.31,Network,Spot,FinOps,DevOps,USD
+2026-01-04,1657,AWS Lambda,eu-central-1,Dev,77.34,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-04,1167,CloudFront,us-west-2,Dev,83.08,Storage,Reserved,FinOps,Miguel,USD
+2026-01-04,1421,CloudFront,eu-central-1,Dev,40.21,Compute,Spot,WebApp,Miguel,USD
+2026-01-04,1131,CloudFront,us-west-2,Production,50.76,Storage,Spot,WebApp,DataTeam,USD
+2026-01-04,1530,Amazon S3,eu-central-1,QA,51.8,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-04,1475,Amazon RDS,us-east-1,Production,66.67,Compute,Spot,FinOps,DataTeam,USD
+2026-01-04,1190,Amazon EC2,us-east-1,Dev,87.52,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-04,1684,Amazon RDS,us-east-1,Dev,35.66,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-04,1226,Amazon RDS,eu-central-1,Dev,54.69,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-04,1372,Amazon EC2,us-west-2,QA,41.5,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-04,1407,Amazon RDS,us-east-1,QA,22.87,Storage,Reserved,Analytics,Miguel,USD
+2026-01-04,1739,Amazon EC2,eu-central-1,QA,8.07,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-04,1751,Amazon RDS,us-east-1,Dev,91.54,Compute,Reserved,Analytics,DevOps,USD
+2026-01-04,1814,CloudFront,us-east-1,QA,12.86,Storage,Reserved,WebApp,Miguel,USD
+2026-01-05,1118,CloudFront,us-east-1,QA,82.0,Network,On-Demand,WebApp,Miguel,USD
+2026-01-05,1062,Amazon S3,us-east-1,QA,83.77,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-05,1098,Amazon EC2,eu-central-1,Dev,6.3,Network,Reserved,FinOps,Miguel,USD
+2026-01-05,1869,CloudFront,eu-central-1,Dev,60.59,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-05,1144,AWS Lambda,us-east-1,QA,24.48,Compute,Spot,FinOps,Miguel,USD
+2026-01-05,1445,Amazon RDS,us-east-1,Dev,76.91,Storage,Spot,WebApp,DataTeam,USD
+2026-01-05,1673,Amazon S3,us-west-2,QA,83.98,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-05,1824,AWS Lambda,us-east-1,Production,7.73,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-05,1074,Amazon S3,eu-central-1,Production,17.96,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-05,1797,Amazon S3,eu-central-1,Production,13.65,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-05,1541,Amazon RDS,eu-central-1,QA,86.92,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-05,1784,Amazon S3,us-east-1,QA,63.98,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-05,1751,AWS Lambda,eu-central-1,Production,56.04,Network,Spot,WebApp,DevOps,USD
+2026-01-05,1359,Amazon RDS,us-east-1,Production,88.06,Network,On-Demand,Analytics,Miguel,USD
+2026-01-05,1050,Amazon S3,eu-central-1,Dev,21.05,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-05,1644,Amazon EC2,us-east-1,QA,89.95,Compute,Reserved,Analytics,Miguel,USD
+2026-01-05,1072,AWS Lambda,us-west-2,Dev,50.71,Storage,Spot,Analytics,DevOps,USD
+2026-01-05,1336,CloudFront,us-west-2,Dev,13.03,Network,On-Demand,WebApp,DevOps,USD
+2026-01-05,1027,Amazon S3,eu-central-1,QA,48.94,Compute,Reserved,Analytics,DevOps,USD
+2026-01-05,1006,AWS Lambda,eu-central-1,Production,85.22,Network,Spot,FinOps,DataTeam,USD
+2026-01-06,1805,Amazon S3,eu-central-1,Production,28.03,Compute,Spot,FinOps,DataTeam,USD
+2026-01-06,1272,Amazon EC2,eu-central-1,QA,36.11,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-06,1393,Amazon RDS,eu-central-1,Dev,52.35,Network,Spot,Analytics,DataTeam,USD
+2026-01-06,1747,Amazon EC2,eu-central-1,QA,31.96,Storage,Reserved,Analytics,DevOps,USD
+2026-01-06,1876,AWS Lambda,us-west-2,Dev,93.7,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-06,1349,Amazon RDS,eu-central-1,QA,32.08,Network,Spot,FinOps,DevOps,USD
+2026-01-06,1242,AWS Lambda,eu-central-1,Dev,98.33,Network,Reserved,Analytics,DevOps,USD
+2026-01-06,1846,Amazon RDS,us-west-2,QA,29.5,Storage,Spot,Analytics,Miguel,USD
+2026-01-06,1846,Amazon S3,eu-central-1,QA,31.6,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-06,1786,Amazon RDS,us-east-1,Dev,55.33,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-06,1893,CloudFront,eu-central-1,Production,50.71,Network,Spot,FinOps,DataTeam,USD
+2026-01-06,1009,Amazon S3,us-east-1,Production,57.15,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-06,1328,CloudFront,us-east-1,Dev,61.59,Storage,Spot,WebApp,DataTeam,USD
+2026-01-06,1580,Amazon EC2,us-west-2,QA,16.81,Network,On-Demand,Analytics,DevOps,USD
+2026-01-06,1512,AWS Lambda,us-west-2,Dev,18.28,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-06,1724,AWS Lambda,us-east-1,Dev,27.39,Storage,Reserved,Analytics,Miguel,USD
+2026-01-06,1041,CloudFront,us-east-1,QA,82.58,Network,Reserved,WebApp,Miguel,USD
+2026-01-06,1022,Amazon EC2,eu-central-1,Production,59.86,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-06,1973,Amazon S3,us-east-1,Production,56.57,Storage,Reserved,WebApp,DevOps,USD
+2026-01-06,1967,AWS Lambda,us-west-2,Production,88.47,Compute,Reserved,WebApp,DevOps,USD
+2026-01-07,1156,Amazon RDS,us-west-2,Dev,34.61,Compute,Spot,WebApp,Miguel,USD
+2026-01-07,1597,Amazon RDS,us-west-2,QA,51.93,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-07,1158,CloudFront,eu-central-1,Dev,17.11,Network,On-Demand,FinOps,Miguel,USD
+2026-01-07,1843,Amazon RDS,us-east-1,QA,6.16,Network,Spot,Analytics,DevOps,USD
+2026-01-07,1068,AWS Lambda,eu-central-1,QA,91.3,Storage,Reserved,WebApp,DevOps,USD
+2026-01-07,1301,Amazon S3,eu-central-1,QA,60.69,Storage,Reserved,FinOps,Miguel,USD
+2026-01-07,1682,Amazon RDS,us-east-1,Dev,72.19,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-07,1050,Amazon EC2,us-east-1,QA,93.76,Storage,Spot,WebApp,Miguel,USD
+2026-01-07,1404,CloudFront,us-west-2,QA,22.7,Network,On-Demand,FinOps,DevOps,USD
+2026-01-07,1935,AWS Lambda,eu-central-1,Dev,41.03,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-07,1665,CloudFront,us-east-1,Production,42.83,Compute,Reserved,WebApp,DataTeam,USD
+2026-01-07,1902,Amazon S3,us-west-2,Production,75.06,Compute,Spot,WebApp,DevOps,USD
+2026-01-07,1181,AWS Lambda,us-east-1,Production,20.72,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-07,1661,AWS Lambda,us-west-2,QA,68.04,Network,On-Demand,FinOps,Miguel,USD
+2026-01-07,1629,Amazon RDS,us-west-2,Production,99.7,Compute,Spot,FinOps,Miguel,USD
+2026-01-07,1890,AWS Lambda,eu-central-1,QA,24.49,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-07,1017,AWS Lambda,us-east-1,QA,72.84,Storage,Reserved,Analytics,Miguel,USD
+2026-01-07,1221,Amazon S3,us-west-2,Production,19.75,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-07,1799,AWS Lambda,us-west-2,QA,90.26,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-07,1799,Amazon RDS,us-west-2,Production,67.6,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-08,1766,AWS Lambda,us-east-1,QA,37.23,Compute,Spot,WebApp,Miguel,USD
+2026-01-08,1263,Amazon RDS,us-west-2,Production,28.1,Storage,Reserved,WebApp,Miguel,USD
+2026-01-08,1909,CloudFront,eu-central-1,Production,90.15,Network,Reserved,WebApp,Miguel,USD
+2026-01-08,1146,CloudFront,us-east-1,Production,60.39,Storage,Reserved,FinOps,DevOps,USD
+2026-01-08,1915,CloudFront,eu-central-1,QA,83.39,Network,Spot,WebApp,Miguel,USD
+2026-01-08,1933,CloudFront,us-west-2,Dev,46.43,Network,Reserved,Analytics,Miguel,USD
+2026-01-08,1157,Amazon S3,eu-central-1,QA,49.75,Compute,Reserved,WebApp,Miguel,USD
+2026-01-08,1551,Amazon EC2,us-west-2,Dev,43.24,Compute,Reserved,Analytics,DevOps,USD
+2026-01-08,1665,Amazon RDS,us-west-2,Dev,21.31,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-08,1127,Amazon S3,us-east-1,QA,59.77,Storage,Reserved,FinOps,Miguel,USD
+2026-01-08,1997,Amazon EC2,us-west-2,Production,15.12,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-08,1167,AWS Lambda,us-west-2,Dev,68.18,Network,Reserved,FinOps,Miguel,USD
+2026-01-08,1980,Amazon S3,us-west-2,QA,45.09,Storage,Reserved,WebApp,Miguel,USD
+2026-01-08,1692,AWS Lambda,eu-central-1,QA,11.48,Network,Spot,FinOps,DevOps,USD
+2026-01-08,1309,AWS Lambda,us-west-2,Production,68.05,Storage,Reserved,FinOps,Miguel,USD
+2026-01-08,1547,Amazon S3,eu-central-1,Production,61.53,Network,On-Demand,Analytics,DevOps,USD
+2026-01-08,1481,CloudFront,us-east-1,QA,50.05,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-08,1060,Amazon EC2,eu-central-1,QA,48.67,Network,Spot,Analytics,Miguel,USD
+2026-01-08,1171,Amazon RDS,eu-central-1,QA,5.5,Network,On-Demand,WebApp,DevOps,USD
+2026-01-08,1956,Amazon EC2,us-east-1,QA,70.6,Compute,Spot,Analytics,DevOps,USD
+2026-01-09,1080,CloudFront,eu-central-1,Dev,70.77,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-09,1654,Amazon RDS,eu-central-1,QA,9.9,Storage,Spot,Analytics,DevOps,USD
+2026-01-09,1918,Amazon EC2,us-west-2,Dev,49.95,Network,Reserved,WebApp,Miguel,USD
+2026-01-09,1882,Amazon EC2,us-west-2,Production,94.71,Storage,Spot,Analytics,DevOps,USD
+2026-01-09,1401,AWS Lambda,eu-central-1,QA,66.23,Storage,Spot,WebApp,Miguel,USD
+2026-01-09,1130,Amazon S3,us-east-1,Production,37.29,Network,Spot,WebApp,DevOps,USD
+2026-01-09,1515,Amazon EC2,us-east-1,QA,35.28,Storage,On-Demand,FinOps,DataTeam,USD
+2026-01-09,1893,Amazon RDS,us-west-2,Production,48.88,Storage,Reserved,WebApp,DevOps,USD
+2026-01-09,1140,CloudFront,us-west-2,Production,11.65,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-09,1317,CloudFront,us-east-1,Dev,60.17,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-09,1358,Amazon EC2,us-east-1,Dev,27.68,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-09,1323,Amazon S3,us-west-2,QA,60.97,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-09,1398,Amazon EC2,us-east-1,Dev,69.57,Network,Reserved,FinOps,Miguel,USD
+2026-01-09,1938,CloudFront,us-west-2,Production,88.52,Storage,Spot,Analytics,Miguel,USD
+2026-01-09,1152,Amazon S3,eu-central-1,Production,43.15,Compute,Spot,Analytics,Miguel,USD
+2026-01-09,1492,AWS Lambda,us-west-2,QA,9.46,Compute,Reserved,FinOps,Miguel,USD
+2026-01-09,1258,Amazon S3,us-west-2,Dev,10.5,Network,Spot,FinOps,Miguel,USD
+2026-01-09,1019,AWS Lambda,us-west-2,Dev,21.52,Storage,Spot,Analytics,DataTeam,USD
+2026-01-09,1215,Amazon EC2,eu-central-1,Production,26.32,Compute,Spot,FinOps,Miguel,USD
+2026-01-09,1909,Amazon RDS,us-east-1,QA,48.46,Network,Spot,FinOps,Miguel,USD
+2026-01-10,1920,AWS Lambda,us-west-2,QA,81.9,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-10,1983,Amazon S3,eu-central-1,QA,29.68,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-10,1315,CloudFront,us-east-1,Dev,99.19,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-10,1697,AWS Lambda,eu-central-1,QA,56.66,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-10,1335,AWS Lambda,us-east-1,Production,87.39,Compute,On-Demand,WebApp,Miguel,USD
+2026-01-10,1692,Amazon EC2,us-west-2,Production,71.4,Network,On-Demand,WebApp,Miguel,USD
+2026-01-10,1760,Amazon S3,eu-central-1,Production,83.45,Storage,Spot,FinOps,DataTeam,USD
+2026-01-10,1355,Amazon S3,us-west-2,QA,76.88,Network,Reserved,FinOps,DataTeam,USD
+2026-01-10,1112,AWS Lambda,us-east-1,Dev,16.01,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-10,1413,AWS Lambda,eu-central-1,QA,46.06,Storage,Spot,WebApp,DataTeam,USD
+2026-01-10,1988,CloudFront,us-west-2,QA,94.99,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-10,1021,Amazon EC2,us-west-2,Production,85.98,Storage,Spot,FinOps,DevOps,USD
+2026-01-10,1947,AWS Lambda,us-east-1,Production,11.23,Compute,Reserved,WebApp,DevOps,USD
+2026-01-10,1458,AWS Lambda,us-west-2,Production,47.36,Storage,Reserved,FinOps,Miguel,USD
+2026-01-10,1396,AWS Lambda,us-east-1,Production,55.07,Compute,On-Demand,WebApp,DataTeam,USD
+2026-01-10,1021,Amazon RDS,eu-central-1,Production,87.47,Storage,On-Demand,FinOps,DevOps,USD
+2026-01-10,1954,CloudFront,us-west-2,Production,31.05,Network,Spot,FinOps,DataTeam,USD
+2026-01-10,1933,Amazon RDS,eu-central-1,QA,25.24,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-10,1207,Amazon RDS,eu-central-1,QA,24.35,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-10,1198,Amazon S3,eu-central-1,Dev,17.47,Compute,Reserved,WebApp,DataTeam,USD
+2026-01-11,1733,Amazon EC2,us-west-2,Production,16.89,Compute,Reserved,FinOps,DevOps,USD
+2026-01-11,1116,CloudFront,us-west-2,Production,98.51,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-11,1365,Amazon S3,eu-central-1,Production,73.58,Network,On-Demand,FinOps,Miguel,USD
+2026-01-11,1101,Amazon RDS,us-east-1,Production,50.65,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-11,1659,Amazon RDS,us-east-1,QA,78.7,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-11,1744,Amazon EC2,us-east-1,QA,8.15,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-11,1685,Amazon S3,us-west-2,QA,83.04,Storage,Spot,FinOps,DevOps,USD
+2026-01-11,1962,CloudFront,eu-central-1,QA,61.5,Compute,Spot,WebApp,Miguel,USD
+2026-01-11,1715,Amazon S3,us-west-2,QA,79.43,Network,Spot,WebApp,DevOps,USD
+2026-01-11,1083,AWS Lambda,us-west-2,QA,79.46,Network,Spot,WebApp,Miguel,USD
+2026-01-11,1873,Amazon RDS,us-west-2,Production,73.86,Network,On-Demand,FinOps,Miguel,USD
+2026-01-11,1121,AWS Lambda,eu-central-1,Production,49.67,Compute,On-Demand,WebApp,Miguel,USD
+2026-01-11,1811,AWS Lambda,us-west-2,QA,73.32,Storage,On-Demand,FinOps,DevOps,USD
+2026-01-11,1923,AWS Lambda,us-west-2,Production,69.62,Compute,Reserved,WebApp,DevOps,USD
+2026-01-11,1902,Amazon EC2,us-east-1,QA,96.27,Storage,On-Demand,FinOps,DataTeam,USD
+2026-01-11,1955,Amazon RDS,us-west-2,Dev,53.83,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-11,1577,Amazon RDS,eu-central-1,QA,80.33,Network,Reserved,WebApp,DevOps,USD
+2026-01-11,1245,Amazon S3,us-east-1,Production,64.18,Compute,Spot,FinOps,DevOps,USD
+2026-01-11,1519,Amazon S3,us-west-2,Production,65.09,Storage,Reserved,Analytics,DevOps,USD
+2026-01-11,1836,CloudFront,us-west-2,Dev,46.53,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-12,1083,Amazon EC2,us-west-2,Production,20.53,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-12,1228,AWS Lambda,us-east-1,Production,60.9,Compute,Spot,WebApp,DevOps,USD
+2026-01-12,1009,AWS Lambda,eu-central-1,QA,21.13,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-12,1256,Amazon EC2,us-east-1,Production,95.12,Compute,Reserved,FinOps,DevOps,USD
+2026-01-12,1686,CloudFront,us-east-1,Dev,79.27,Network,Spot,Analytics,DevOps,USD
+2026-01-12,1915,CloudFront,us-west-2,QA,10.42,Network,On-Demand,Analytics,Miguel,USD
+2026-01-12,1118,Amazon EC2,eu-central-1,QA,22.1,Network,On-Demand,FinOps,Miguel,USD
+2026-01-12,1205,AWS Lambda,us-west-2,Dev,50.59,Network,Spot,Analytics,DataTeam,USD
+2026-01-12,1305,Amazon EC2,us-east-1,Dev,60.11,Network,Spot,Analytics,DevOps,USD
+2026-01-12,1293,Amazon RDS,eu-central-1,QA,34.25,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-12,1128,CloudFront,eu-central-1,Dev,47.16,Compute,Spot,Analytics,DevOps,USD
+2026-01-12,1192,Amazon S3,eu-central-1,Production,94.74,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-12,1537,Amazon EC2,eu-central-1,Dev,7.89,Compute,Reserved,FinOps,Miguel,USD
+2026-01-12,1286,AWS Lambda,us-west-2,Dev,68.36,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-12,1703,Amazon S3,us-west-2,Production,97.83,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-12,1588,CloudFront,eu-central-1,Dev,15.37,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-12,1613,Amazon RDS,eu-central-1,QA,90.63,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-12,1330,CloudFront,us-east-1,QA,56.73,Compute,On-Demand,WebApp,Miguel,USD
+2026-01-12,1710,Amazon RDS,eu-central-1,Dev,41.14,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-12,1290,Amazon EC2,us-west-2,QA,60.77,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-13,1002,Amazon EC2,us-east-1,QA,95.39,Storage,Reserved,FinOps,Miguel,USD
+2026-01-13,1664,Amazon S3,us-east-1,QA,55.03,Network,Spot,WebApp,DevOps,USD
+2026-01-13,1363,Amazon S3,eu-central-1,Production,6.73,Network,Spot,WebApp,DevOps,USD
+2026-01-13,1123,CloudFront,eu-central-1,Dev,67.2,Network,Spot,FinOps,Miguel,USD
+2026-01-13,1801,AWS Lambda,us-west-2,Dev,63.65,Compute,Reserved,WebApp,Miguel,USD
+2026-01-13,1290,Amazon RDS,us-west-2,QA,73.03,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-13,1262,AWS Lambda,eu-central-1,QA,80.98,Network,Spot,WebApp,Miguel,USD
+2026-01-13,1444,Amazon S3,us-west-2,QA,81.57,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-13,1140,AWS Lambda,eu-central-1,QA,82.82,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-13,1983,Amazon S3,us-west-2,Dev,84.79,Compute,Reserved,WebApp,Miguel,USD
+2026-01-13,1049,Amazon RDS,eu-central-1,Production,68.42,Storage,Spot,Analytics,Miguel,USD
+2026-01-13,1580,Amazon S3,eu-central-1,Dev,75.0,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-13,1661,Amazon EC2,us-east-1,Production,26.87,Network,Spot,Analytics,Miguel,USD
+2026-01-13,1508,CloudFront,us-east-1,QA,18.47,Network,Spot,FinOps,DataTeam,USD
+2026-01-13,1553,AWS Lambda,us-west-2,Dev,73.17,Compute,Spot,WebApp,DataTeam,USD
+2026-01-13,1579,AWS Lambda,us-west-2,QA,59.95,Network,On-Demand,Analytics,Miguel,USD
+2026-01-13,1675,Amazon EC2,eu-central-1,Dev,35.72,Network,Reserved,FinOps,DevOps,USD
+2026-01-13,1780,Amazon RDS,us-east-1,QA,68.61,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-13,1811,AWS Lambda,us-east-1,QA,36.64,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-13,1802,Amazon EC2,us-west-2,Production,49.19,Storage,Reserved,FinOps,Miguel,USD
+2026-01-14,1286,CloudFront,eu-central-1,Dev,21.2,Storage,Reserved,Analytics,Miguel,USD
+2026-01-14,1656,Amazon RDS,eu-central-1,QA,27.29,Network,Reserved,FinOps,Miguel,USD
+2026-01-14,1285,Amazon EC2,us-east-1,QA,29.42,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-14,1737,Amazon RDS,us-east-1,QA,16.18,Network,Reserved,FinOps,DataTeam,USD
+2026-01-14,1340,Amazon EC2,us-west-2,Production,27.71,Compute,Spot,WebApp,DataTeam,USD
+2026-01-14,1195,Amazon S3,us-west-2,Production,20.37,Storage,Spot,WebApp,DataTeam,USD
+2026-01-14,1100,Amazon RDS,us-west-2,Production,42.73,Storage,Reserved,FinOps,DevOps,USD
+2026-01-14,1669,Amazon S3,us-west-2,QA,18.42,Network,Reserved,FinOps,DevOps,USD
+2026-01-14,1674,CloudFront,us-west-2,Production,71.02,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-14,1961,Amazon EC2,us-east-1,Dev,86.89,Network,Reserved,FinOps,DataTeam,USD
+2026-01-14,1435,CloudFront,eu-central-1,Production,42.87,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-14,1993,CloudFront,us-east-1,Production,96.5,Compute,Spot,Analytics,DataTeam,USD
+2026-01-14,1827,CloudFront,eu-central-1,QA,5.03,Network,Reserved,Analytics,DevOps,USD
+2026-01-14,1286,AWS Lambda,eu-central-1,Dev,79.17,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-14,1689,AWS Lambda,us-east-1,Production,71.03,Compute,Spot,WebApp,Miguel,USD
+2026-01-14,1148,AWS Lambda,us-east-1,QA,30.21,Network,On-Demand,WebApp,Miguel,USD
+2026-01-14,1358,CloudFront,us-east-1,QA,45.48,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-14,1482,CloudFront,eu-central-1,Production,44.34,Storage,Spot,FinOps,Miguel,USD
+2026-01-14,1509,CloudFront,eu-central-1,QA,17.71,Compute,Reserved,Analytics,DevOps,USD
+2026-01-14,1649,CloudFront,eu-central-1,QA,23.02,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-15,1241,Amazon S3,us-east-1,Dev,23.89,Compute,On-Demand,FinOps,DevOps,USD
+2026-01-15,1699,Amazon EC2,eu-central-1,Production,52.44,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-15,1545,Amazon RDS,us-west-2,Production,40.71,Compute,Reserved,Analytics,Miguel,USD
+2026-01-15,1396,Amazon S3,us-east-1,Dev,14.7,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-15,1559,Amazon RDS,us-east-1,Dev,84.88,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-15,1775,Amazon S3,eu-central-1,QA,65.48,Network,On-Demand,WebApp,Miguel,USD
+2026-01-15,1580,AWS Lambda,us-east-1,Production,69.62,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-15,1620,Amazon EC2,eu-central-1,Production,6.15,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-15,1650,Amazon RDS,eu-central-1,Production,67.83,Network,Spot,Analytics,Miguel,USD
+2026-01-15,1349,CloudFront,us-west-2,QA,6.99,Compute,Spot,FinOps,Miguel,USD
+2026-01-15,1462,Amazon S3,us-west-2,Production,16.53,Storage,Reserved,FinOps,Miguel,USD
+2026-01-15,1377,Amazon EC2,eu-central-1,QA,90.1,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-15,1692,CloudFront,eu-central-1,QA,17.17,Network,On-Demand,Analytics,DevOps,USD
+2026-01-15,1664,Amazon EC2,eu-central-1,QA,46.74,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-15,1724,Amazon RDS,eu-central-1,QA,6.21,Compute,Spot,Analytics,DataTeam,USD
+2026-01-15,1779,Amazon EC2,us-east-1,Production,28.96,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-15,1735,Amazon RDS,eu-central-1,QA,76.55,Compute,Reserved,FinOps,Miguel,USD
+2026-01-15,1769,Amazon S3,us-east-1,Dev,73.97,Network,Reserved,WebApp,DevOps,USD
+2026-01-15,1406,AWS Lambda,us-east-1,QA,56.51,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-15,1022,AWS Lambda,us-east-1,QA,87.97,Network,On-Demand,FinOps,DevOps,USD
+2026-01-16,1185,Amazon S3,us-east-1,Dev,88.74,Network,Reserved,Analytics,DevOps,USD
+2026-01-16,1009,Amazon EC2,us-east-1,QA,63.52,Network,Reserved,FinOps,Miguel,USD
+2026-01-16,1499,Amazon EC2,us-west-2,QA,77.29,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-16,1417,Amazon EC2,us-east-1,Dev,69.45,Network,Spot,WebApp,DataTeam,USD
+2026-01-16,1100,AWS Lambda,us-west-2,Production,47.62,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-16,1741,CloudFront,us-east-1,QA,71.08,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-16,1187,Amazon RDS,us-east-1,Dev,13.83,Network,Spot,FinOps,DataTeam,USD
+2026-01-16,1727,AWS Lambda,us-east-1,QA,58.34,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-16,1158,AWS Lambda,eu-central-1,Dev,65.47,Network,Reserved,FinOps,DataTeam,USD
+2026-01-16,1997,Amazon S3,us-east-1,Production,83.39,Network,On-Demand,Analytics,DevOps,USD
+2026-01-16,1182,Amazon EC2,us-east-1,QA,40.29,Compute,Spot,WebApp,DevOps,USD
+2026-01-16,1824,AWS Lambda,us-west-2,Dev,21.48,Storage,Spot,WebApp,DevOps,USD
+2026-01-16,1074,Amazon RDS,eu-central-1,Dev,95.28,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-16,1770,Amazon S3,us-east-1,Production,7.3,Storage,Reserved,FinOps,DataTeam,USD
+2026-01-16,1876,Amazon EC2,eu-central-1,Dev,10.33,Network,Reserved,Analytics,DevOps,USD
+2026-01-16,1348,CloudFront,us-east-1,Dev,46.34,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-16,1930,Amazon S3,us-east-1,Dev,5.67,Compute,Reserved,Analytics,Miguel,USD
+2026-01-16,1663,Amazon RDS,us-east-1,Dev,11.55,Storage,Reserved,Analytics,DevOps,USD
+2026-01-16,1950,AWS Lambda,us-west-2,QA,30.84,Storage,Spot,Analytics,Miguel,USD
+2026-01-16,1581,CloudFront,us-east-1,Dev,86.04,Network,Reserved,Analytics,DevOps,USD
+2026-01-17,1532,Amazon EC2,us-west-2,Dev,78.33,Storage,Spot,WebApp,DataTeam,USD
+2026-01-17,1147,AWS Lambda,eu-central-1,Production,42.38,Storage,Reserved,FinOps,Miguel,USD
+2026-01-17,1020,Amazon S3,us-west-2,Dev,67.15,Storage,On-Demand,FinOps,DevOps,USD
+2026-01-17,1856,AWS Lambda,us-east-1,Dev,22.39,Compute,Reserved,FinOps,DevOps,USD
+2026-01-17,1326,Amazon S3,us-west-2,Production,56.79,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-17,1680,AWS Lambda,eu-central-1,QA,57.14,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-17,1576,Amazon S3,us-west-2,Dev,18.39,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-17,1143,Amazon S3,eu-central-1,Dev,76.18,Network,Reserved,WebApp,DataTeam,USD
+2026-01-17,1703,AWS Lambda,eu-central-1,Production,52.24,Network,On-Demand,Analytics,DevOps,USD
+2026-01-17,1877,Amazon RDS,us-west-2,Production,24.46,Compute,Spot,Analytics,DataTeam,USD
+2026-01-17,1380,AWS Lambda,us-east-1,QA,76.32,Compute,Spot,Analytics,Miguel,USD
+2026-01-17,1967,AWS Lambda,us-east-1,QA,52.29,Storage,Spot,WebApp,Miguel,USD
+2026-01-17,1177,AWS Lambda,eu-central-1,Production,46.9,Network,Reserved,FinOps,Miguel,USD
+2026-01-17,1071,CloudFront,eu-central-1,Dev,42.62,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-17,1385,Amazon RDS,eu-central-1,Production,39.49,Network,Reserved,WebApp,DataTeam,USD
+2026-01-17,1219,Amazon EC2,us-east-1,Production,22.5,Compute,Spot,FinOps,DataTeam,USD
+2026-01-17,1543,AWS Lambda,us-east-1,Production,52.99,Compute,Spot,FinOps,DevOps,USD
+2026-01-17,1532,CloudFront,us-west-2,Dev,35.69,Storage,Reserved,WebApp,DevOps,USD
+2026-01-17,1836,AWS Lambda,us-east-1,Production,55.1,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-17,1226,CloudFront,us-east-1,Dev,33.17,Storage,Reserved,Analytics,DevOps,USD
+2026-01-18,1939,Amazon RDS,us-east-1,Production,90.62,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-18,1587,AWS Lambda,us-west-2,QA,28.21,Storage,Reserved,FinOps,Miguel,USD
+2026-01-18,1691,AWS Lambda,us-west-2,Dev,75.27,Storage,Reserved,WebApp,Miguel,USD
+2026-01-18,1836,Amazon EC2,eu-central-1,QA,98.01,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-18,1482,Amazon S3,eu-central-1,Production,20.88,Compute,Spot,WebApp,DevOps,USD
+2026-01-18,1515,AWS Lambda,us-west-2,Dev,25.48,Network,Spot,FinOps,DevOps,USD
+2026-01-18,1628,Amazon EC2,us-east-1,QA,77.13,Compute,Spot,FinOps,DevOps,USD
+2026-01-18,1844,Amazon RDS,eu-central-1,QA,66.82,Storage,Spot,WebApp,DevOps,USD
+2026-01-18,1602,AWS Lambda,us-west-2,QA,48.73,Compute,Reserved,WebApp,DevOps,USD
+2026-01-18,1595,AWS Lambda,us-east-1,Dev,45.04,Storage,Reserved,Analytics,DevOps,USD
+2026-01-18,1082,Amazon EC2,us-west-2,Production,83.47,Network,On-Demand,FinOps,DevOps,USD
+2026-01-18,1762,Amazon EC2,eu-central-1,Dev,31.74,Network,Reserved,Analytics,Miguel,USD
+2026-01-18,1675,CloudFront,us-east-1,QA,9.38,Compute,On-Demand,Analytics,DevOps,USD
+2026-01-18,1738,CloudFront,us-east-1,Production,74.37,Compute,Spot,Analytics,Miguel,USD
+2026-01-18,1621,CloudFront,us-west-2,Dev,98.96,Network,Spot,FinOps,DataTeam,USD
+2026-01-18,1431,Amazon EC2,us-west-2,Production,30.44,Storage,Reserved,FinOps,DevOps,USD
+2026-01-18,1324,CloudFront,us-east-1,Production,51.4,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-18,1323,Amazon EC2,eu-central-1,Dev,11.15,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-18,1437,Amazon RDS,us-west-2,Production,18.06,Network,Reserved,FinOps,DataTeam,USD
+2026-01-18,1818,CloudFront,us-west-2,Dev,71.75,Network,Spot,Analytics,Miguel,USD
+2026-01-19,1853,AWS Lambda,us-west-2,QA,49.93,Compute,On-Demand,WebApp,DataTeam,USD
+2026-01-19,1721,Amazon EC2,us-east-1,Dev,49.89,Storage,Spot,WebApp,DataTeam,USD
+2026-01-19,1440,Amazon EC2,us-east-1,Dev,50.79,Storage,Spot,FinOps,Miguel,USD
+2026-01-19,1700,CloudFront,us-west-2,Dev,5.73,Storage,Spot,FinOps,DataTeam,USD
+2026-01-19,1756,CloudFront,us-east-1,QA,42.7,Storage,Reserved,FinOps,Miguel,USD
+2026-01-19,1816,CloudFront,us-east-1,Dev,15.81,Network,Spot,WebApp,DevOps,USD
+2026-01-19,1550,Amazon EC2,us-east-1,Production,9.26,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-19,1000,CloudFront,eu-central-1,Dev,72.83,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-19,1249,Amazon RDS,us-east-1,Dev,65.46,Network,Reserved,FinOps,DevOps,USD
+2026-01-19,1686,Amazon EC2,us-west-2,QA,15.88,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-19,1658,CloudFront,eu-central-1,Dev,11.75,Storage,Spot,WebApp,Miguel,USD
+2026-01-19,1958,Amazon S3,us-east-1,Dev,66.41,Network,Spot,FinOps,DataTeam,USD
+2026-01-19,1562,Amazon S3,us-west-2,Dev,63.19,Network,Reserved,WebApp,Miguel,USD
+2026-01-19,1604,Amazon S3,us-west-2,Production,55.73,Storage,On-Demand,FinOps,DataTeam,USD
+2026-01-19,1418,Amazon RDS,eu-central-1,Dev,13.02,Network,Reserved,FinOps,Miguel,USD
+2026-01-19,1126,Amazon EC2,eu-central-1,Dev,74.27,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-19,1657,AWS Lambda,eu-central-1,Dev,31.16,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-19,1363,Amazon RDS,us-west-2,Production,47.76,Network,On-Demand,WebApp,DevOps,USD
+2026-01-19,1559,AWS Lambda,us-west-2,Production,62.1,Compute,Spot,Analytics,Miguel,USD
+2026-01-19,1420,Amazon RDS,us-east-1,Dev,94.93,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-20,1418,Amazon RDS,eu-central-1,Production,11.81,Storage,Spot,FinOps,Miguel,USD
+2026-01-20,1391,CloudFront,us-west-2,QA,48.13,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-20,1578,AWS Lambda,eu-central-1,Dev,41.5,Network,Reserved,Analytics,DevOps,USD
+2026-01-20,1233,AWS Lambda,eu-central-1,QA,34.75,Compute,Spot,FinOps,DataTeam,USD
+2026-01-20,1484,Amazon S3,us-west-2,Dev,40.19,Compute,Spot,WebApp,DataTeam,USD
+2026-01-20,1785,Amazon RDS,us-east-1,Dev,13.38,Network,Spot,Analytics,Miguel,USD
+2026-01-20,1735,CloudFront,us-west-2,Dev,19.64,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-20,1378,CloudFront,eu-central-1,Production,38.84,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-20,1340,Amazon EC2,us-west-2,Production,30.67,Network,Spot,WebApp,Miguel,USD
+2026-01-20,1958,Amazon RDS,us-east-1,Production,19.3,Storage,Spot,WebApp,Miguel,USD
+2026-01-20,1098,Amazon EC2,us-west-2,QA,59.09,Storage,Spot,FinOps,DevOps,USD
+2026-01-20,1519,CloudFront,us-east-1,Dev,72.53,Storage,Spot,WebApp,DevOps,USD
+2026-01-20,1865,CloudFront,eu-central-1,QA,55.67,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-20,1516,Amazon RDS,us-east-1,Dev,88.32,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-20,1303,Amazon S3,us-west-2,Production,33.73,Storage,Spot,FinOps,DataTeam,USD
+2026-01-20,1714,AWS Lambda,us-east-1,Production,59.84,Network,On-Demand,Analytics,DevOps,USD
+2026-01-20,1603,Amazon S3,eu-central-1,Production,77.63,Network,On-Demand,WebApp,DevOps,USD
+2026-01-20,1839,Amazon EC2,us-east-1,Dev,65.82,Compute,Spot,WebApp,DataTeam,USD
+2026-01-20,1442,AWS Lambda,us-east-1,Dev,97.3,Compute,Spot,WebApp,DataTeam,USD
+2026-01-20,1725,CloudFront,eu-central-1,Production,70.79,Storage,Reserved,FinOps,DataTeam,USD
+2026-01-21,1663,Amazon EC2,eu-central-1,QA,95.96,Network,Spot,WebApp,DataTeam,USD
+2026-01-21,1112,Amazon S3,eu-central-1,QA,6.36,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-21,1140,CloudFront,us-east-1,Dev,77.78,Network,Reserved,WebApp,DevOps,USD
+2026-01-21,1801,Amazon EC2,us-west-2,QA,43.72,Storage,Spot,Analytics,DevOps,USD
+2026-01-21,1583,AWS Lambda,eu-central-1,QA,81.78,Compute,Reserved,FinOps,Miguel,USD
+2026-01-21,1122,AWS Lambda,us-west-2,QA,12.3,Network,Reserved,Analytics,DataTeam,USD
+2026-01-21,1321,Amazon RDS,us-west-2,QA,43.27,Network,Spot,Analytics,DevOps,USD
+2026-01-21,1903,AWS Lambda,eu-central-1,QA,19.47,Network,Spot,Analytics,Miguel,USD
+2026-01-21,1806,CloudFront,us-east-1,Dev,65.85,Compute,On-Demand,FinOps,DevOps,USD
+2026-01-21,1786,CloudFront,us-east-1,Dev,16.68,Compute,Spot,WebApp,DataTeam,USD
+2026-01-21,1009,Amazon S3,us-west-2,QA,27.98,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-21,1204,Amazon RDS,eu-central-1,Production,73.46,Network,Spot,Analytics,DataTeam,USD
+2026-01-21,1759,Amazon S3,us-west-2,Production,10.16,Compute,Spot,FinOps,DevOps,USD
+2026-01-21,1860,Amazon EC2,us-west-2,QA,31.24,Storage,On-Demand,WebApp,DataTeam,USD
+2026-01-21,1389,Amazon EC2,us-east-1,Dev,12.86,Network,On-Demand,FinOps,DevOps,USD
+2026-01-21,1136,AWS Lambda,eu-central-1,QA,34.77,Storage,Spot,WebApp,Miguel,USD
+2026-01-21,1176,AWS Lambda,us-west-2,Production,13.48,Storage,Spot,Analytics,Miguel,USD
+2026-01-21,1827,Amazon EC2,eu-central-1,Dev,71.87,Storage,Spot,WebApp,Miguel,USD
+2026-01-21,1234,CloudFront,us-east-1,Dev,96.77,Network,On-Demand,WebApp,Miguel,USD
+2026-01-21,1532,Amazon EC2,eu-central-1,Production,66.19,Storage,On-Demand,FinOps,DataTeam,USD
+2026-01-22,1552,Amazon RDS,eu-central-1,Production,15.54,Storage,Spot,FinOps,DevOps,USD
+2026-01-22,1012,Amazon EC2,us-west-2,Dev,83.11,Network,Reserved,FinOps,Miguel,USD
+2026-01-22,1821,AWS Lambda,us-west-2,Dev,80.64,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-22,1727,Amazon EC2,eu-central-1,QA,75.02,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-22,1355,Amazon EC2,us-east-1,Production,39.94,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-22,1564,Amazon S3,eu-central-1,Dev,70.36,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-22,1867,Amazon EC2,us-west-2,QA,7.99,Network,Spot,Analytics,Miguel,USD
+2026-01-22,1181,Amazon RDS,us-east-1,Production,88.38,Storage,Reserved,Analytics,Miguel,USD
+2026-01-22,1118,Amazon RDS,eu-central-1,Dev,54.52,Storage,Spot,Analytics,Miguel,USD
+2026-01-22,1698,Amazon S3,eu-central-1,QA,39.93,Compute,Reserved,WebApp,Miguel,USD
+2026-01-22,1032,Amazon EC2,eu-central-1,QA,26.21,Compute,Reserved,WebApp,Miguel,USD
+2026-01-22,1972,Amazon RDS,eu-central-1,Production,69.18,Network,On-Demand,WebApp,Miguel,USD
+2026-01-22,1213,CloudFront,eu-central-1,Production,72.46,Compute,Reserved,Analytics,Miguel,USD
+2026-01-22,1470,Amazon RDS,us-west-2,QA,99.07,Network,On-Demand,Analytics,DevOps,USD
+2026-01-22,1277,Amazon RDS,us-east-1,Dev,26.41,Network,Reserved,FinOps,DataTeam,USD
+2026-01-22,1393,Amazon EC2,eu-central-1,Dev,31.24,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-22,1970,Amazon RDS,eu-central-1,Dev,37.79,Storage,Reserved,FinOps,DevOps,USD
+2026-01-22,1685,Amazon EC2,us-west-2,QA,18.99,Compute,On-Demand,WebApp,DataTeam,USD
+2026-01-22,1945,Amazon EC2,us-west-2,Production,77.3,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-22,1389,CloudFront,us-west-2,QA,81.66,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-23,1222,CloudFront,us-west-2,Production,20.75,Compute,On-Demand,WebApp,Miguel,USD
+2026-01-23,1751,Amazon EC2,eu-central-1,Dev,55.09,Network,Reserved,FinOps,DevOps,USD
+2026-01-23,1559,Amazon RDS,eu-central-1,QA,54.64,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-23,1982,AWS Lambda,eu-central-1,QA,64.12,Storage,Reserved,WebApp,Miguel,USD
+2026-01-23,1124,AWS Lambda,us-west-2,Dev,96.21,Compute,Reserved,Analytics,DevOps,USD
+2026-01-23,1361,CloudFront,us-west-2,Production,27.04,Network,Spot,FinOps,DevOps,USD
+2026-01-23,1599,Amazon RDS,us-west-2,QA,86.24,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-23,1511,Amazon RDS,us-west-2,Production,65.26,Storage,Reserved,WebApp,DevOps,USD
+2026-01-23,1154,CloudFront,us-east-1,Dev,50.68,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-23,1545,AWS Lambda,eu-central-1,Dev,9.27,Compute,Spot,FinOps,DevOps,USD
+2026-01-23,1403,Amazon RDS,us-east-1,QA,92.25,Compute,Spot,WebApp,DataTeam,USD
+2026-01-23,1273,Amazon EC2,us-east-1,Dev,58.59,Network,Reserved,FinOps,DataTeam,USD
+2026-01-23,1057,Amazon EC2,us-west-2,Dev,97.57,Network,Reserved,WebApp,DevOps,USD
+2026-01-23,1104,Amazon EC2,us-east-1,QA,95.85,Storage,Reserved,FinOps,Miguel,USD
+2026-01-23,1579,CloudFront,us-east-1,Production,58.52,Compute,Spot,Analytics,DevOps,USD
+2026-01-23,1108,AWS Lambda,eu-central-1,Production,90.86,Storage,On-Demand,FinOps,DataTeam,USD
+2026-01-23,1790,Amazon RDS,us-west-2,Production,56.73,Compute,On-Demand,FinOps,DevOps,USD
+2026-01-23,1493,Amazon RDS,us-east-1,Production,11.56,Network,Spot,FinOps,Miguel,USD
+2026-01-23,1366,AWS Lambda,eu-central-1,Production,36.56,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-23,1952,Amazon S3,us-east-1,Production,9.31,Network,On-Demand,FinOps,DevOps,USD
+2026-01-24,1829,CloudFront,us-east-1,Dev,61.09,Storage,Reserved,FinOps,Miguel,USD
+2026-01-24,1679,Amazon S3,eu-central-1,Production,33.9,Compute,Spot,WebApp,DataTeam,USD
+2026-01-24,1987,Amazon RDS,us-west-2,Production,67.99,Network,On-Demand,FinOps,Miguel,USD
+2026-01-24,1305,Amazon S3,us-west-2,QA,82.71,Network,Spot,Analytics,Miguel,USD
+2026-01-24,1046,AWS Lambda,us-west-2,Production,25.95,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-24,1271,Amazon EC2,eu-central-1,Production,56.73,Storage,Spot,Analytics,DevOps,USD
+2026-01-24,1976,Amazon EC2,eu-central-1,QA,50.78,Compute,Spot,FinOps,DevOps,USD
+2026-01-24,1868,CloudFront,us-west-2,Dev,53.82,Compute,Spot,FinOps,Miguel,USD
+2026-01-24,1103,Amazon S3,eu-central-1,Production,48.86,Compute,Spot,WebApp,DataTeam,USD
+2026-01-24,1637,CloudFront,us-east-1,Dev,7.93,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-24,1307,Amazon RDS,us-east-1,Production,16.29,Compute,Spot,FinOps,DevOps,USD
+2026-01-24,1848,Amazon EC2,eu-central-1,QA,20.49,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-24,1418,Amazon RDS,us-west-2,QA,63.51,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-24,1850,CloudFront,us-west-2,Dev,55.76,Network,On-Demand,FinOps,Miguel,USD
+2026-01-24,1335,AWS Lambda,us-west-2,Dev,96.34,Storage,Spot,WebApp,DevOps,USD
+2026-01-24,1457,AWS Lambda,us-east-1,Production,34.43,Network,Reserved,Analytics,DevOps,USD
+2026-01-24,1996,Amazon EC2,eu-central-1,QA,64.36,Network,Reserved,WebApp,DevOps,USD
+2026-01-24,1209,AWS Lambda,us-east-1,Dev,6.88,Compute,Spot,FinOps,DevOps,USD
+2026-01-24,1400,Amazon RDS,us-west-2,Dev,45.9,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-24,1317,Amazon EC2,us-west-2,Dev,70.12,Compute,Spot,Analytics,DataTeam,USD
+2026-01-25,1288,Amazon RDS,us-east-1,QA,74.68,Network,Reserved,WebApp,DevOps,USD
+2026-01-25,1759,CloudFront,us-east-1,QA,94.42,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-25,1201,CloudFront,us-east-1,QA,97.21,Compute,Reserved,FinOps,Miguel,USD
+2026-01-25,1473,Amazon S3,us-east-1,Dev,37.92,Network,Spot,WebApp,DataTeam,USD
+2026-01-25,1344,Amazon S3,eu-central-1,QA,32.31,Storage,Reserved,Analytics,DataTeam,USD
+2026-01-25,1438,AWS Lambda,eu-central-1,Production,12.18,Storage,Spot,FinOps,DataTeam,USD
+2026-01-25,1107,Amazon RDS,eu-central-1,Production,66.61,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-25,1133,AWS Lambda,eu-central-1,Production,69.22,Compute,Reserved,FinOps,DevOps,USD
+2026-01-25,1058,Amazon RDS,us-west-2,Dev,21.54,Network,Reserved,FinOps,DataTeam,USD
+2026-01-25,1078,CloudFront,eu-central-1,QA,94.21,Compute,Spot,Analytics,DataTeam,USD
+2026-01-25,1283,Amazon EC2,us-east-1,Dev,41.63,Network,On-Demand,FinOps,DevOps,USD
+2026-01-25,1649,Amazon EC2,us-east-1,Dev,63.64,Storage,Reserved,FinOps,DataTeam,USD
+2026-01-25,1794,Amazon S3,us-west-2,QA,13.8,Network,On-Demand,WebApp,Miguel,USD
+2026-01-25,1366,Amazon RDS,eu-central-1,Dev,53.71,Network,Reserved,WebApp,Miguel,USD
+2026-01-25,1376,AWS Lambda,us-east-1,QA,71.58,Compute,Spot,FinOps,Miguel,USD
+2026-01-25,1046,Amazon RDS,eu-central-1,Dev,25.37,Compute,Spot,Analytics,DevOps,USD
+2026-01-25,1945,CloudFront,eu-central-1,QA,62.64,Network,Reserved,Analytics,DevOps,USD
+2026-01-25,1337,Amazon S3,us-west-2,Production,83.18,Network,Spot,FinOps,DataTeam,USD
+2026-01-25,1969,AWS Lambda,us-west-2,Dev,29.07,Network,Reserved,WebApp,DataTeam,USD
+2026-01-25,1720,Amazon S3,us-east-1,Dev,60.52,Compute,Spot,FinOps,Miguel,USD
+2026-01-26,1648,CloudFront,us-west-2,Production,48.16,Compute,Reserved,WebApp,DevOps,USD
+2026-01-26,1741,Amazon RDS,us-west-2,QA,66.69,Compute,Spot,Analytics,DataTeam,USD
+2026-01-26,1697,AWS Lambda,us-east-1,Dev,33.6,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-26,1987,Amazon RDS,eu-central-1,Dev,77.62,Storage,Reserved,Analytics,Miguel,USD
+2026-01-26,1613,Amazon EC2,us-west-2,Dev,20.24,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-26,1454,Amazon S3,eu-central-1,Dev,83.52,Network,Spot,FinOps,Miguel,USD
+2026-01-26,1139,Amazon RDS,eu-central-1,QA,55.88,Compute,On-Demand,WebApp,DataTeam,USD
+2026-01-26,1855,Amazon RDS,us-east-1,Dev,34.24,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-26,1361,Amazon EC2,us-west-2,Production,27.02,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-26,1108,AWS Lambda,eu-central-1,Production,23.42,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-26,1075,Amazon EC2,eu-central-1,Production,44.38,Network,Reserved,FinOps,Miguel,USD
+2026-01-26,1598,CloudFront,us-east-1,QA,41.56,Network,On-Demand,FinOps,DevOps,USD
+2026-01-26,1449,CloudFront,us-east-1,QA,80.0,Storage,Reserved,Analytics,Miguel,USD
+2026-01-26,1637,Amazon EC2,eu-central-1,QA,88.76,Storage,Reserved,WebApp,DevOps,USD
+2026-01-26,1673,Amazon RDS,us-east-1,QA,62.74,Storage,Spot,WebApp,DevOps,USD
+2026-01-26,1117,AWS Lambda,eu-central-1,QA,96.19,Network,On-Demand,FinOps,DevOps,USD
+2026-01-26,1957,Amazon EC2,us-east-1,Production,69.5,Network,Reserved,FinOps,Miguel,USD
+2026-01-26,1353,Amazon S3,eu-central-1,Dev,87.7,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-26,1244,Amazon EC2,us-east-1,Dev,46.71,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-26,1793,CloudFront,us-east-1,Production,24.41,Compute,Spot,FinOps,Miguel,USD
+2026-01-27,1573,Amazon EC2,us-east-1,Production,11.56,Compute,Spot,WebApp,Miguel,USD
+2026-01-27,1415,CloudFront,us-west-2,Dev,74.48,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-27,1498,Amazon EC2,eu-central-1,QA,80.2,Storage,On-Demand,WebApp,DevOps,USD
+2026-01-27,1936,Amazon S3,us-east-1,Production,49.3,Compute,Reserved,Analytics,Miguel,USD
+2026-01-27,1434,Amazon S3,us-west-2,QA,50.53,Network,On-Demand,WebApp,Miguel,USD
+2026-01-27,1684,Amazon EC2,us-west-2,QA,53.77,Storage,Spot,FinOps,DevOps,USD
+2026-01-27,1732,Amazon S3,eu-central-1,Production,11.65,Storage,Spot,WebApp,DataTeam,USD
+2026-01-27,1506,Amazon RDS,eu-central-1,QA,38.24,Network,Reserved,WebApp,DataTeam,USD
+2026-01-27,1904,Amazon EC2,eu-central-1,QA,78.42,Network,On-Demand,FinOps,DataTeam,USD
+2026-01-27,1868,Amazon S3,us-east-1,QA,81.29,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-27,1703,AWS Lambda,us-east-1,Production,21.14,Compute,Spot,Analytics,Miguel,USD
+2026-01-27,1400,Amazon S3,eu-central-1,Production,61.73,Storage,Reserved,FinOps,Miguel,USD
+2026-01-27,1843,Amazon S3,us-west-2,Dev,73.06,Storage,Spot,FinOps,Miguel,USD
+2026-01-27,1385,AWS Lambda,us-west-2,QA,91.24,Network,Spot,FinOps,DataTeam,USD
+2026-01-27,1177,Amazon S3,eu-central-1,QA,47.82,Storage,On-Demand,Analytics,DataTeam,USD
+2026-01-27,1238,Amazon EC2,eu-central-1,QA,76.08,Compute,On-Demand,Analytics,Miguel,USD
+2026-01-27,1916,Amazon RDS,us-west-2,QA,25.78,Network,Reserved,Analytics,DevOps,USD
+2026-01-27,1974,CloudFront,eu-central-1,Production,98.41,Storage,On-Demand,FinOps,Miguel,USD
+2026-01-27,1574,CloudFront,us-west-2,QA,44.45,Network,Spot,FinOps,DataTeam,USD
+2026-01-27,1687,Amazon S3,us-west-2,Dev,90.3,Network,Spot,FinOps,DevOps,USD
+2026-01-28,1229,CloudFront,us-west-2,QA,76.06,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-28,1275,AWS Lambda,eu-central-1,Dev,76.08,Compute,Reserved,WebApp,Miguel,USD
+2026-01-28,1674,AWS Lambda,eu-central-1,Production,33.88,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-28,1916,AWS Lambda,eu-central-1,QA,58.79,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-28,1432,Amazon S3,eu-central-1,Production,53.61,Storage,Spot,WebApp,Miguel,USD
+2026-01-28,1124,CloudFront,us-west-2,Production,60.19,Compute,On-Demand,WebApp,DevOps,USD
+2026-01-28,1449,AWS Lambda,us-west-2,Dev,41.98,Network,Spot,WebApp,DataTeam,USD
+2026-01-28,1694,Amazon S3,us-east-1,Production,25.11,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-28,1169,Amazon EC2,us-west-2,Dev,52.88,Network,On-Demand,Analytics,DevOps,USD
+2026-01-28,1887,Amazon S3,eu-central-1,Production,20.9,Compute,Spot,FinOps,DevOps,USD
+2026-01-28,1181,Amazon EC2,us-west-2,QA,19.84,Network,On-Demand,WebApp,DataTeam,USD
+2026-01-28,1942,Amazon S3,us-east-1,Dev,95.13,Storage,Reserved,FinOps,DevOps,USD
+2026-01-28,1042,AWS Lambda,eu-central-1,QA,70.14,Storage,Spot,Analytics,DataTeam,USD
+2026-01-28,1972,CloudFront,us-west-2,Dev,84.21,Storage,Reserved,Analytics,DevOps,USD
+2026-01-28,1935,Amazon RDS,eu-central-1,QA,71.75,Compute,Reserved,Analytics,Miguel,USD
+2026-01-28,1627,Amazon RDS,eu-central-1,QA,67.61,Network,On-Demand,WebApp,DevOps,USD
+2026-01-28,1180,AWS Lambda,eu-central-1,Production,16.9,Network,On-Demand,Analytics,Miguel,USD
+2026-01-28,1263,Amazon EC2,eu-central-1,Production,78.71,Storage,Spot,FinOps,DevOps,USD
+2026-01-28,1944,Amazon RDS,us-east-1,QA,94.11,Network,Reserved,WebApp,DataTeam,USD
+2026-01-28,1070,Amazon S3,us-west-2,QA,50.12,Storage,Reserved,Analytics,DevOps,USD
+2026-01-29,1083,CloudFront,eu-central-1,Dev,77.13,Network,Spot,Analytics,Miguel,USD
+2026-01-29,1649,Amazon RDS,eu-central-1,Dev,38.6,Compute,On-Demand,Analytics,DataTeam,USD
+2026-01-29,1222,Amazon RDS,us-west-2,QA,87.14,Network,Spot,Analytics,DataTeam,USD
+2026-01-29,1987,AWS Lambda,us-west-2,QA,18.03,Storage,Reserved,Analytics,DevOps,USD
+2026-01-29,1111,Amazon RDS,us-west-2,Production,12.82,Network,Spot,WebApp,DataTeam,USD
+2026-01-29,1438,Amazon EC2,us-west-2,Dev,44.77,Compute,Reserved,FinOps,Miguel,USD
+2026-01-29,1370,Amazon S3,us-east-1,Production,23.93,Network,Spot,WebApp,DevOps,USD
+2026-01-29,1848,CloudFront,us-east-1,QA,23.54,Storage,On-Demand,FinOps,DevOps,USD
+2026-01-29,1427,Amazon RDS,us-west-2,Production,67.52,Compute,Spot,Analytics,DevOps,USD
+2026-01-29,1186,Amazon RDS,us-east-1,QA,90.81,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-29,1588,AWS Lambda,us-east-1,QA,87.61,Storage,Spot,FinOps,Miguel,USD
+2026-01-29,1485,AWS Lambda,eu-central-1,QA,86.2,Compute,Reserved,WebApp,DevOps,USD
+2026-01-29,1757,CloudFront,us-west-2,QA,62.37,Storage,Spot,Analytics,Miguel,USD
+2026-01-29,1905,AWS Lambda,eu-central-1,Production,37.06,Network,Spot,FinOps,DevOps,USD
+2026-01-29,1701,CloudFront,us-east-1,Production,25.95,Storage,On-Demand,Analytics,DevOps,USD
+2026-01-29,1524,Amazon RDS,us-east-1,Production,62.03,Compute,On-Demand,FinOps,DataTeam,USD
+2026-01-29,1480,Amazon RDS,us-east-1,Production,23.95,Storage,Reserved,WebApp,Miguel,USD
+2026-01-29,1473,AWS Lambda,eu-central-1,Production,61.05,Compute,On-Demand,FinOps,Miguel,USD
+2026-01-29,1757,Amazon S3,us-west-2,Production,61.71,Network,On-Demand,Analytics,Miguel,USD
+2026-01-29,1780,Amazon S3,eu-central-1,Dev,77.47,Network,On-Demand,WebApp,DevOps,USD
+2026-01-30,1179,Amazon EC2,us-west-2,Production,16.72,Storage,On-Demand,FinOps,Miguel,USD
+2026-01-30,1043,Amazon EC2,eu-central-1,Production,47.66,Compute,Spot,FinOps,Miguel,USD
+2026-01-30,1952,Amazon EC2,eu-central-1,QA,71.08,Network,Reserved,Analytics,DevOps,USD
+2026-01-30,1614,AWS Lambda,eu-central-1,Production,78.41,Storage,On-Demand,FinOps,Miguel,USD
+2026-01-30,1613,Amazon S3,us-east-1,Dev,83.55,Storage,On-Demand,FinOps,DevOps,USD
+2026-01-30,1138,AWS Lambda,us-east-1,Dev,96.34,Network,Spot,WebApp,DevOps,USD
+2026-01-30,1005,Amazon EC2,eu-central-1,QA,33.09,Storage,Spot,FinOps,DevOps,USD
+2026-01-30,1579,Amazon RDS,us-west-2,QA,91.73,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-30,1227,Amazon EC2,eu-central-1,QA,80.48,Network,Reserved,WebApp,Miguel,USD
+2026-01-30,1209,Amazon S3,us-east-1,Production,98.56,Storage,Reserved,WebApp,Miguel,USD
+2026-01-30,1286,Amazon RDS,eu-central-1,QA,47.63,Network,Reserved,WebApp,DataTeam,USD
+2026-01-30,1072,Amazon S3,us-west-2,QA,21.83,Compute,Spot,Analytics,DevOps,USD
+2026-01-30,1270,Amazon EC2,eu-central-1,Dev,68.03,Storage,Spot,Analytics,DevOps,USD
+2026-01-30,1851,Amazon S3,eu-central-1,Production,33.39,Compute,Reserved,FinOps,DataTeam,USD
+2026-01-30,1377,AWS Lambda,us-east-1,Dev,87.0,Storage,On-Demand,Analytics,Miguel,USD
+2026-01-30,1883,Amazon EC2,us-west-2,Dev,51.82,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-30,1788,Amazon EC2,us-east-1,QA,56.94,Compute,Spot,WebApp,DevOps,USD
+2026-01-30,1090,Amazon RDS,us-west-2,Dev,82.99,Storage,Spot,WebApp,DataTeam,USD
+2026-01-30,1344,Amazon S3,us-east-1,Production,29.12,Compute,Reserved,FinOps,Miguel,USD
+2026-01-30,1055,CloudFront,eu-central-1,Dev,60.58,Compute,On-Demand,WebApp,DataTeam,USD
+2026-01-31,1359,Amazon EC2,eu-central-1,QA,87.03,Network,Reserved,FinOps,DevOps,USD
+2026-01-31,1892,CloudFront,us-west-2,QA,80.39,Network,Spot,Analytics,Miguel,USD
+2026-01-31,1246,Amazon S3,eu-central-1,Dev,70.74,Network,Reserved,FinOps,DevOps,USD
+2026-01-31,1832,Amazon EC2,us-east-1,Production,70.43,Storage,On-Demand,WebApp,Miguel,USD
+2026-01-31,1207,AWS Lambda,us-west-2,Production,9.92,Storage,Reserved,FinOps,Miguel,USD
+2026-01-31,1495,Amazon EC2,us-west-2,Dev,84.89,Storage,Reserved,WebApp,Miguel,USD
+2026-01-31,1794,CloudFront,us-east-1,Dev,31.2,Network,Reserved,FinOps,DataTeam,USD
+2026-01-31,1816,Amazon S3,eu-central-1,Dev,62.16,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-31,1447,AWS Lambda,us-west-2,QA,36.55,Compute,Reserved,Analytics,Miguel,USD
+2026-01-31,1886,Amazon RDS,eu-central-1,Production,78.49,Network,Spot,FinOps,DevOps,USD
+2026-01-31,1915,AWS Lambda,eu-central-1,QA,84.2,Compute,On-Demand,FinOps,DevOps,USD
+2026-01-31,1049,AWS Lambda,us-east-1,Production,38.72,Compute,Reserved,Analytics,DataTeam,USD
+2026-01-31,1879,CloudFront,eu-central-1,Production,32.36,Network,Reserved,FinOps,DataTeam,USD
+2026-01-31,1863,Amazon RDS,us-east-1,QA,57.92,Storage,Spot,WebApp,DevOps,USD
+2026-01-31,1486,Amazon EC2,us-east-1,QA,89.19,Network,Spot,Analytics,Miguel,USD
+2026-01-31,1975,Amazon EC2,eu-central-1,QA,76.48,Storage,Reserved,FinOps,Miguel,USD
+2026-01-31,1422,CloudFront,us-west-2,Production,89.89,Network,On-Demand,Analytics,DataTeam,USD
+2026-01-31,1493,Amazon S3,us-east-1,Production,52.55,Storage,Reserved,WebApp,DataTeam,USD
+2026-01-31,1740,Amazon EC2,us-west-2,QA,35.9,Network,Spot,WebApp,DataTeam,USD
+2026-01-31,1810,AWS Lambda,us-east-1,Production,42.54,Compute,Spot,FinOps,DataTeam,USD
+2026-02-01,1533,AWS Lambda,us-east-1,QA,79.41,Network,On-Demand,WebApp,DataTeam,USD
+2026-02-01,1392,AWS Lambda,eu-central-1,QA,70.36,Compute,Spot,FinOps,Miguel,USD
+2026-02-01,1082,Amazon S3,us-east-1,Production,44.89,Network,Reserved,FinOps,DataTeam,USD
+2026-02-01,1247,CloudFront,eu-central-1,Dev,80.74,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-01,1024,Amazon EC2,us-west-2,Production,62.23,Storage,Reserved,WebApp,DevOps,USD
+2026-02-01,1596,AWS Lambda,us-east-1,QA,97.6,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-01,1120,Amazon RDS,us-west-2,QA,9.81,Network,On-Demand,WebApp,DataTeam,USD
+2026-02-01,1186,AWS Lambda,us-west-2,QA,79.25,Network,Spot,WebApp,DataTeam,USD
+2026-02-01,1699,Amazon RDS,us-east-1,Production,5.59,Storage,Spot,WebApp,DevOps,USD
+2026-02-01,1011,Amazon RDS,us-east-1,QA,20.52,Network,On-Demand,FinOps,Miguel,USD
+2026-02-01,1089,CloudFront,us-west-2,Dev,64.51,Compute,Reserved,WebApp,DataTeam,USD
+2026-02-01,1070,Amazon S3,us-east-1,Dev,47.0,Network,Spot,WebApp,DataTeam,USD
+2026-02-01,1786,Amazon RDS,us-east-1,QA,24.82,Compute,Spot,WebApp,Miguel,USD
+2026-02-01,1280,Amazon RDS,us-west-2,Production,39.3,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-01,1029,Amazon RDS,us-east-1,Production,71.23,Compute,Spot,Analytics,DataTeam,USD
+2026-02-01,1867,CloudFront,us-west-2,Production,33.24,Network,Spot,WebApp,DataTeam,USD
+2026-02-01,1238,Amazon RDS,eu-central-1,Dev,18.41,Storage,Reserved,FinOps,DevOps,USD
+2026-02-01,1676,AWS Lambda,us-west-2,QA,8.32,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-01,1606,Amazon S3,eu-central-1,Production,21.06,Network,Spot,FinOps,Miguel,USD
+2026-02-01,1414,CloudFront,eu-central-1,Production,49.43,Storage,Spot,Analytics,DataTeam,USD
+2026-02-02,1315,Amazon S3,us-east-1,QA,7.24,Network,Spot,FinOps,DevOps,USD
+2026-02-02,1003,CloudFront,eu-central-1,QA,54.74,Network,On-Demand,FinOps,DevOps,USD
+2026-02-02,1991,Amazon RDS,us-east-1,Production,24.98,Storage,Spot,Analytics,DataTeam,USD
+2026-02-02,1107,Amazon RDS,eu-central-1,QA,32.34,Storage,Spot,WebApp,Miguel,USD
+2026-02-02,1011,AWS Lambda,eu-central-1,QA,89.51,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-02,1693,Amazon RDS,us-west-2,QA,18.62,Compute,Reserved,Analytics,Miguel,USD
+2026-02-02,1360,CloudFront,us-west-2,QA,28.85,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-02,1753,Amazon RDS,eu-central-1,Production,74.74,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-02,1423,Amazon RDS,us-east-1,QA,6.3,Compute,Reserved,WebApp,DataTeam,USD
+2026-02-02,1434,Amazon EC2,us-west-2,Production,65.17,Compute,Reserved,Analytics,Miguel,USD
+2026-02-02,1612,Amazon RDS,us-east-1,Production,52.53,Storage,Reserved,Analytics,Miguel,USD
+2026-02-02,1727,Amazon S3,us-west-2,QA,92.14,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-02,1355,CloudFront,us-east-1,Dev,84.57,Storage,Reserved,WebApp,DevOps,USD
+2026-02-02,1122,CloudFront,eu-central-1,Dev,67.87,Network,Reserved,WebApp,DevOps,USD
+2026-02-02,1911,Amazon RDS,us-east-1,Dev,84.54,Compute,Spot,Analytics,DevOps,USD
+2026-02-02,1400,Amazon RDS,us-east-1,QA,92.25,Storage,On-Demand,FinOps,DevOps,USD
+2026-02-02,1854,Amazon RDS,eu-central-1,QA,16.23,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-02,1475,Amazon EC2,eu-central-1,QA,6.23,Network,On-Demand,WebApp,DevOps,USD
+2026-02-02,1200,CloudFront,us-east-1,QA,82.16,Network,Reserved,Analytics,Miguel,USD
+2026-02-02,1507,CloudFront,eu-central-1,Dev,42.04,Compute,Spot,WebApp,DevOps,USD
+2026-02-03,1924,AWS Lambda,us-west-2,QA,11.25,Storage,Spot,FinOps,DevOps,USD
+2026-02-03,1436,Amazon S3,eu-central-1,Dev,43.26,Compute,Reserved,FinOps,DevOps,USD
+2026-02-03,1130,Amazon EC2,eu-central-1,Dev,59.96,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-03,1101,AWS Lambda,eu-central-1,Dev,79.13,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-03,1876,CloudFront,us-west-2,Production,23.64,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-03,1076,AWS Lambda,us-east-1,Production,84.08,Network,Spot,WebApp,DevOps,USD
+2026-02-03,1665,AWS Lambda,us-west-2,Production,93.59,Storage,Spot,WebApp,DataTeam,USD
+2026-02-03,1741,Amazon RDS,us-east-1,QA,19.62,Network,Spot,Analytics,DevOps,USD
+2026-02-03,1358,AWS Lambda,us-east-1,Dev,71.54,Storage,Reserved,WebApp,DevOps,USD
+2026-02-03,1420,CloudFront,us-west-2,Dev,35.0,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-03,1115,Amazon EC2,us-west-2,Production,93.41,Network,Reserved,Analytics,DevOps,USD
+2026-02-03,1437,Amazon RDS,us-east-1,Production,80.05,Storage,Spot,WebApp,Miguel,USD
+2026-02-03,1920,Amazon S3,us-west-2,Dev,37.23,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-03,1272,Amazon RDS,eu-central-1,QA,38.7,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-03,1946,Amazon EC2,us-west-2,QA,63.33,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-03,1489,Amazon EC2,eu-central-1,QA,17.86,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-03,1390,Amazon EC2,us-east-1,QA,43.14,Compute,On-Demand,FinOps,DataTeam,USD
+2026-02-03,1912,Amazon RDS,eu-central-1,QA,10.56,Compute,Spot,Analytics,DataTeam,USD
+2026-02-03,1188,Amazon EC2,eu-central-1,Dev,29.15,Storage,Spot,WebApp,DevOps,USD
+2026-02-03,1657,Amazon EC2,us-east-1,Production,19.39,Network,Spot,FinOps,Miguel,USD
+2026-02-04,1943,Amazon S3,eu-central-1,Dev,83.7,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-04,1267,Amazon RDS,us-west-2,QA,34.16,Network,Spot,FinOps,Miguel,USD
+2026-02-04,1857,Amazon S3,eu-central-1,QA,21.83,Storage,Reserved,WebApp,Miguel,USD
+2026-02-04,1606,Amazon S3,us-west-2,Dev,6.0,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-04,1629,Amazon RDS,us-west-2,Production,37.48,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-04,1746,Amazon EC2,us-west-2,Dev,46.79,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-04,1134,AWS Lambda,eu-central-1,QA,41.41,Compute,Reserved,FinOps,DevOps,USD
+2026-02-04,1522,Amazon S3,eu-central-1,QA,30.12,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-04,1382,Amazon RDS,us-west-2,QA,79.52,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-04,1223,Amazon RDS,eu-central-1,Production,50.44,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-04,1553,CloudFront,us-east-1,Production,26.54,Network,Reserved,WebApp,DevOps,USD
+2026-02-04,1122,CloudFront,eu-central-1,Production,22.52,Compute,Spot,WebApp,DataTeam,USD
+2026-02-04,1622,Amazon RDS,us-west-2,Dev,95.48,Network,Spot,Analytics,DevOps,USD
+2026-02-04,1690,Amazon RDS,us-east-1,Production,11.76,Network,On-Demand,WebApp,Miguel,USD
+2026-02-04,1333,Amazon RDS,us-east-1,Dev,9.63,Network,Spot,Analytics,DataTeam,USD
+2026-02-04,1789,Amazon EC2,us-east-1,Dev,47.86,Storage,Spot,Analytics,Miguel,USD
+2026-02-04,1305,Amazon EC2,us-east-1,Dev,80.67,Storage,Reserved,FinOps,Miguel,USD
+2026-02-04,1133,AWS Lambda,eu-central-1,Dev,95.15,Storage,Reserved,FinOps,DevOps,USD
+2026-02-04,1657,Amazon RDS,eu-central-1,Production,68.69,Network,Spot,WebApp,Miguel,USD
+2026-02-04,1731,Amazon RDS,us-east-1,QA,98.91,Network,Reserved,Analytics,DevOps,USD
+2026-02-05,1268,CloudFront,us-east-1,Dev,9.84,Storage,Spot,Analytics,DataTeam,USD
+2026-02-05,1812,Amazon S3,us-west-2,Production,92.63,Network,On-Demand,Analytics,DevOps,USD
+2026-02-05,1438,Amazon EC2,eu-central-1,Production,99.29,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-05,1427,CloudFront,us-east-1,Dev,43.92,Network,Reserved,WebApp,DataTeam,USD
+2026-02-05,1849,AWS Lambda,eu-central-1,Production,40.35,Network,On-Demand,Analytics,Miguel,USD
+2026-02-05,1409,CloudFront,eu-central-1,QA,66.97,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-05,1309,Amazon RDS,us-west-2,Production,42.62,Storage,Spot,WebApp,DataTeam,USD
+2026-02-05,1793,CloudFront,us-east-1,Dev,43.86,Storage,Spot,WebApp,DevOps,USD
+2026-02-05,1874,AWS Lambda,eu-central-1,QA,94.17,Storage,Spot,WebApp,Miguel,USD
+2026-02-05,1312,CloudFront,eu-central-1,Production,34.93,Storage,Spot,WebApp,DevOps,USD
+2026-02-05,1134,Amazon S3,us-west-2,Production,29.81,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-05,1089,CloudFront,us-east-1,Dev,46.85,Compute,Reserved,FinOps,Miguel,USD
+2026-02-05,1936,Amazon RDS,us-west-2,Dev,35.31,Compute,Reserved,WebApp,Miguel,USD
+2026-02-05,1549,CloudFront,us-west-2,Dev,35.28,Storage,Spot,WebApp,Miguel,USD
+2026-02-05,1224,AWS Lambda,eu-central-1,QA,72.87,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-05,1995,Amazon EC2,us-east-1,Dev,51.98,Storage,Spot,Analytics,Miguel,USD
+2026-02-05,1220,Amazon S3,eu-central-1,Production,45.82,Storage,Spot,FinOps,Miguel,USD
+2026-02-05,1914,Amazon S3,us-east-1,QA,22.21,Network,Reserved,Analytics,Miguel,USD
+2026-02-05,1044,CloudFront,us-west-2,Dev,45.52,Compute,Spot,WebApp,DevOps,USD
+2026-02-05,1009,Amazon S3,us-west-2,Dev,25.33,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-06,1190,Amazon RDS,us-east-1,Dev,80.87,Compute,Spot,WebApp,Miguel,USD
+2026-02-06,1068,Amazon RDS,eu-central-1,Dev,58.64,Storage,Spot,Analytics,Miguel,USD
+2026-02-06,1771,CloudFront,us-west-2,Dev,73.41,Network,On-Demand,WebApp,DevOps,USD
+2026-02-06,1989,Amazon EC2,us-east-1,Production,25.96,Compute,Reserved,FinOps,Miguel,USD
+2026-02-06,1548,Amazon RDS,us-west-2,Dev,77.2,Storage,Reserved,WebApp,DevOps,USD
+2026-02-06,1150,CloudFront,us-east-1,QA,40.52,Compute,Spot,WebApp,Miguel,USD
+2026-02-06,1787,Amazon S3,eu-central-1,Dev,22.33,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-06,1105,Amazon RDS,eu-central-1,QA,39.86,Network,Reserved,WebApp,DataTeam,USD
+2026-02-06,1191,Amazon RDS,us-east-1,Production,42.84,Network,Reserved,WebApp,DataTeam,USD
+2026-02-06,1323,Amazon EC2,eu-central-1,Dev,35.75,Network,Spot,Analytics,Miguel,USD
+2026-02-06,1869,AWS Lambda,eu-central-1,QA,37.23,Compute,Spot,Analytics,DevOps,USD
+2026-02-06,1731,Amazon S3,eu-central-1,QA,56.86,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-06,1545,Amazon S3,us-east-1,QA,70.58,Network,Reserved,FinOps,DataTeam,USD
+2026-02-06,1438,Amazon EC2,us-east-1,QA,66.34,Storage,Spot,WebApp,DataTeam,USD
+2026-02-06,1283,Amazon S3,eu-central-1,Production,86.83,Storage,Spot,Analytics,Miguel,USD
+2026-02-06,1327,AWS Lambda,eu-central-1,QA,86.56,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-06,1034,Amazon RDS,eu-central-1,Production,21.04,Network,Spot,FinOps,DevOps,USD
+2026-02-06,1086,Amazon RDS,us-east-1,Production,84.46,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-06,1164,Amazon RDS,us-east-1,Production,62.41,Network,On-Demand,WebApp,DevOps,USD
+2026-02-06,1115,AWS Lambda,us-west-2,Production,72.04,Compute,Spot,WebApp,Miguel,USD
+2026-02-07,1023,Amazon RDS,eu-central-1,QA,43.74,Storage,Reserved,WebApp,DevOps,USD
+2026-02-07,1270,AWS Lambda,us-west-2,Production,30.7,Network,Reserved,WebApp,Miguel,USD
+2026-02-07,1865,Amazon EC2,us-east-1,QA,91.59,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-07,1333,Amazon RDS,us-east-1,Dev,54.45,Storage,Spot,FinOps,DevOps,USD
+2026-02-07,1920,CloudFront,us-west-2,QA,98.36,Storage,Reserved,FinOps,Miguel,USD
+2026-02-07,1567,Amazon EC2,us-west-2,Dev,49.46,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-07,1783,CloudFront,us-west-2,QA,68.99,Network,On-Demand,Analytics,DevOps,USD
+2026-02-07,1131,Amazon S3,us-east-1,Production,35.48,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-07,1068,CloudFront,eu-central-1,Dev,59.22,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-07,1264,Amazon S3,eu-central-1,QA,85.17,Storage,Reserved,WebApp,Miguel,USD
+2026-02-07,1877,AWS Lambda,us-east-1,QA,73.66,Network,On-Demand,FinOps,Miguel,USD
+2026-02-07,1282,Amazon S3,eu-central-1,Production,64.03,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-07,1598,Amazon S3,us-west-2,QA,31.08,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-07,1112,CloudFront,us-east-1,Production,69.18,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-07,1797,AWS Lambda,us-west-2,QA,48.77,Network,Spot,Analytics,DataTeam,USD
+2026-02-07,1192,Amazon S3,us-west-2,Dev,86.47,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-07,1762,Amazon EC2,eu-central-1,QA,27.3,Network,Reserved,WebApp,DataTeam,USD
+2026-02-07,1693,Amazon EC2,us-east-1,Dev,27.19,Network,Spot,WebApp,DataTeam,USD
+2026-02-07,1950,Amazon EC2,eu-central-1,QA,40.8,Storage,Spot,Analytics,Miguel,USD
+2026-02-07,1424,AWS Lambda,us-west-2,QA,84.8,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-08,1293,Amazon EC2,us-west-2,Production,20.61,Storage,Reserved,WebApp,DevOps,USD
+2026-02-08,1568,AWS Lambda,us-west-2,Production,77.28,Compute,On-Demand,FinOps,DataTeam,USD
+2026-02-08,1320,CloudFront,eu-central-1,Dev,28.46,Compute,Spot,FinOps,DataTeam,USD
+2026-02-08,1847,Amazon S3,us-east-1,QA,52.73,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-08,1692,Amazon RDS,eu-central-1,Production,88.45,Compute,Reserved,Analytics,DevOps,USD
+2026-02-08,1001,AWS Lambda,us-west-2,QA,34.48,Compute,Reserved,Analytics,Miguel,USD
+2026-02-08,1128,Amazon RDS,us-west-2,Production,56.97,Storage,Spot,Analytics,DataTeam,USD
+2026-02-08,1096,CloudFront,eu-central-1,Production,31.03,Network,Spot,WebApp,DataTeam,USD
+2026-02-08,1974,Amazon EC2,us-east-1,Production,42.26,Compute,On-Demand,FinOps,DataTeam,USD
+2026-02-08,1608,Amazon S3,eu-central-1,QA,41.25,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-08,1854,AWS Lambda,us-east-1,QA,47.78,Compute,Spot,WebApp,DevOps,USD
+2026-02-08,1031,Amazon S3,eu-central-1,QA,92.79,Compute,On-Demand,FinOps,DataTeam,USD
+2026-02-08,1735,Amazon RDS,us-west-2,Production,63.82,Storage,Reserved,Analytics,Miguel,USD
+2026-02-08,1208,Amazon RDS,us-east-1,QA,96.94,Network,Reserved,WebApp,Miguel,USD
+2026-02-08,1283,AWS Lambda,us-east-1,QA,49.77,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-08,1270,CloudFront,us-east-1,Production,44.17,Network,Reserved,FinOps,DevOps,USD
+2026-02-08,1536,Amazon S3,us-east-1,Production,13.27,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-08,1727,Amazon EC2,us-east-1,Dev,5.57,Compute,Reserved,FinOps,Miguel,USD
+2026-02-08,1116,Amazon EC2,us-west-2,QA,24.55,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-08,1151,CloudFront,us-west-2,Dev,88.28,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-09,1072,Amazon EC2,us-west-2,Dev,15.92,Storage,Spot,WebApp,DevOps,USD
+2026-02-09,1264,Amazon RDS,us-east-1,Production,52.42,Compute,Spot,WebApp,DataTeam,USD
+2026-02-09,1537,Amazon RDS,us-east-1,QA,37.5,Compute,Reserved,FinOps,DevOps,USD
+2026-02-09,1992,Amazon S3,us-west-2,Production,59.05,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-09,1048,AWS Lambda,eu-central-1,QA,39.51,Compute,Reserved,WebApp,DataTeam,USD
+2026-02-09,1911,Amazon RDS,us-east-1,QA,42.53,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-09,1199,Amazon S3,us-east-1,Production,38.91,Network,On-Demand,Analytics,DevOps,USD
+2026-02-09,1089,Amazon S3,us-west-2,Production,51.05,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-09,1067,Amazon RDS,us-east-1,QA,95.93,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-09,1928,Amazon RDS,us-east-1,QA,28.96,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-09,1456,Amazon S3,eu-central-1,Production,36.7,Compute,Reserved,Analytics,DevOps,USD
+2026-02-09,1182,AWS Lambda,us-west-2,QA,59.49,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-09,1191,CloudFront,us-west-2,QA,36.15,Network,Reserved,Analytics,Miguel,USD
+2026-02-09,1999,AWS Lambda,eu-central-1,Production,37.3,Network,On-Demand,WebApp,Miguel,USD
+2026-02-09,1068,AWS Lambda,eu-central-1,Production,45.88,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-09,1008,CloudFront,eu-central-1,Production,23.67,Compute,Reserved,FinOps,Miguel,USD
+2026-02-09,1266,Amazon EC2,us-west-2,QA,68.36,Network,Spot,Analytics,DevOps,USD
+2026-02-09,1651,Amazon S3,us-west-2,Production,29.6,Compute,Reserved,Analytics,Miguel,USD
+2026-02-09,1962,Amazon EC2,us-west-2,Production,55.58,Network,Reserved,FinOps,DataTeam,USD
+2026-02-09,1084,Amazon S3,us-west-2,Dev,97.13,Compute,Spot,Analytics,Miguel,USD
+2026-02-10,1865,Amazon S3,us-west-2,Dev,68.34,Network,On-Demand,WebApp,Miguel,USD
+2026-02-10,1519,Amazon S3,us-west-2,Production,17.96,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-10,1252,Amazon RDS,us-west-2,QA,76.25,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-10,1215,Amazon RDS,eu-central-1,Production,32.35,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-10,1555,CloudFront,us-west-2,QA,92.45,Storage,Reserved,FinOps,DevOps,USD
+2026-02-10,1293,Amazon S3,eu-central-1,QA,68.91,Compute,Reserved,FinOps,Miguel,USD
+2026-02-10,1442,Amazon EC2,us-west-2,Dev,48.4,Storage,Spot,Analytics,DataTeam,USD
+2026-02-10,1179,Amazon EC2,us-west-2,QA,59.8,Network,Spot,Analytics,Miguel,USD
+2026-02-10,1231,Amazon RDS,us-west-2,Production,16.21,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-10,1686,Amazon S3,us-east-1,Dev,8.79,Network,Spot,Analytics,Miguel,USD
+2026-02-10,1621,Amazon S3,us-west-2,Dev,89.06,Compute,Reserved,WebApp,Miguel,USD
+2026-02-10,1193,AWS Lambda,us-west-2,QA,87.18,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-10,1209,AWS Lambda,us-east-1,QA,50.79,Network,Spot,Analytics,Miguel,USD
+2026-02-10,1791,Amazon RDS,us-west-2,Dev,15.76,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-10,1338,CloudFront,us-east-1,Production,85.94,Network,Reserved,Analytics,DevOps,USD
+2026-02-10,1897,Amazon RDS,eu-central-1,QA,40.81,Storage,Reserved,WebApp,Miguel,USD
+2026-02-10,1985,Amazon S3,eu-central-1,QA,77.8,Network,On-Demand,FinOps,Miguel,USD
+2026-02-10,1329,AWS Lambda,us-east-1,Dev,17.47,Storage,Spot,Analytics,DevOps,USD
+2026-02-10,1415,Amazon RDS,eu-central-1,Production,64.42,Compute,Reserved,FinOps,DevOps,USD
+2026-02-10,1025,Amazon RDS,us-east-1,Dev,99.57,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-11,1486,AWS Lambda,us-east-1,Production,95.45,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-11,1873,CloudFront,us-east-1,QA,82.58,Compute,On-Demand,FinOps,DataTeam,USD
+2026-02-11,1693,Amazon RDS,eu-central-1,Dev,97.81,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-11,1367,CloudFront,us-west-2,QA,14.43,Storage,On-Demand,FinOps,DevOps,USD
+2026-02-11,1199,Amazon EC2,us-east-1,Production,24.46,Compute,Spot,Analytics,DevOps,USD
+2026-02-11,1220,CloudFront,eu-central-1,QA,31.86,Storage,Spot,Analytics,Miguel,USD
+2026-02-11,1609,Amazon RDS,us-east-1,Production,65.84,Compute,Reserved,WebApp,DevOps,USD
+2026-02-11,1225,Amazon EC2,us-east-1,QA,42.41,Compute,Spot,FinOps,DataTeam,USD
+2026-02-11,1681,Amazon RDS,us-east-1,QA,50.06,Network,Reserved,FinOps,DevOps,USD
+2026-02-11,1855,AWS Lambda,eu-central-1,QA,89.01,Network,Reserved,FinOps,DataTeam,USD
+2026-02-11,1432,Amazon RDS,eu-central-1,Dev,60.6,Network,Reserved,FinOps,DevOps,USD
+2026-02-11,1810,AWS Lambda,us-west-2,Production,91.44,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-11,1451,AWS Lambda,us-west-2,QA,96.84,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-11,1753,Amazon EC2,eu-central-1,Dev,15.56,Compute,Spot,WebApp,DataTeam,USD
+2026-02-11,1083,CloudFront,eu-central-1,Production,97.33,Compute,On-Demand,WebApp,Miguel,USD
+2026-02-11,1036,Amazon S3,us-east-1,Production,33.97,Storage,Reserved,Analytics,DevOps,USD
+2026-02-11,1299,CloudFront,eu-central-1,Dev,20.79,Network,Reserved,Analytics,Miguel,USD
+2026-02-11,1991,Amazon S3,us-west-2,Dev,22.02,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-11,1443,AWS Lambda,eu-central-1,Dev,14.19,Compute,Spot,Analytics,Miguel,USD
+2026-02-11,1048,CloudFront,us-east-1,Dev,78.58,Compute,Reserved,WebApp,Miguel,USD
+2026-02-12,1574,AWS Lambda,eu-central-1,QA,6.0,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-12,1944,AWS Lambda,us-west-2,QA,53.42,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-12,1532,AWS Lambda,eu-central-1,QA,53.35,Storage,Reserved,FinOps,Miguel,USD
+2026-02-12,1529,CloudFront,eu-central-1,QA,95.45,Network,On-Demand,FinOps,Miguel,USD
+2026-02-12,1425,AWS Lambda,us-east-1,Production,12.84,Network,On-Demand,WebApp,Miguel,USD
+2026-02-12,1054,CloudFront,us-east-1,QA,33.81,Network,Spot,Analytics,DevOps,USD
+2026-02-12,1972,CloudFront,us-east-1,Production,80.45,Compute,Reserved,WebApp,DevOps,USD
+2026-02-12,1041,Amazon S3,eu-central-1,Dev,6.35,Network,Reserved,WebApp,DataTeam,USD
+2026-02-12,1018,Amazon RDS,us-east-1,Dev,99.57,Compute,Reserved,WebApp,DevOps,USD
+2026-02-12,1550,Amazon EC2,us-east-1,QA,17.28,Storage,On-Demand,FinOps,DevOps,USD
+2026-02-12,1145,CloudFront,us-west-2,Dev,68.46,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-12,1278,AWS Lambda,us-east-1,Dev,37.96,Compute,Spot,FinOps,DevOps,USD
+2026-02-12,1210,AWS Lambda,us-east-1,Dev,22.81,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-12,1826,AWS Lambda,us-west-2,Production,53.55,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-12,1678,AWS Lambda,us-east-1,Dev,28.19,Storage,Spot,Analytics,DataTeam,USD
+2026-02-12,1401,Amazon RDS,us-west-2,Production,42.48,Network,On-Demand,Analytics,DevOps,USD
+2026-02-12,1546,AWS Lambda,us-west-2,Dev,53.83,Storage,Spot,FinOps,DataTeam,USD
+2026-02-12,1717,AWS Lambda,us-west-2,Production,30.98,Compute,Reserved,WebApp,DevOps,USD
+2026-02-12,1000,Amazon EC2,eu-central-1,Dev,9.55,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-12,1907,Amazon RDS,eu-central-1,QA,79.04,Network,Reserved,Analytics,Miguel,USD
+2026-02-13,1326,Amazon RDS,us-west-2,Dev,73.02,Network,Spot,WebApp,DevOps,USD
+2026-02-13,1709,Amazon S3,us-west-2,QA,98.72,Network,Reserved,Analytics,DevOps,USD
+2026-02-13,1356,Amazon S3,us-west-2,Production,94.09,Storage,Reserved,WebApp,DevOps,USD
+2026-02-13,1331,CloudFront,us-east-1,Dev,63.92,Storage,Reserved,WebApp,Miguel,USD
+2026-02-13,1645,Amazon RDS,eu-central-1,Dev,73.63,Compute,Spot,FinOps,DevOps,USD
+2026-02-13,1535,CloudFront,us-west-2,Production,44.74,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-13,1472,Amazon RDS,us-east-1,QA,85.26,Network,Reserved,FinOps,Miguel,USD
+2026-02-13,1848,AWS Lambda,us-east-1,QA,5.93,Storage,Spot,WebApp,DataTeam,USD
+2026-02-13,1438,AWS Lambda,eu-central-1,Production,82.53,Compute,Spot,WebApp,Miguel,USD
+2026-02-13,1824,Amazon EC2,us-east-1,Dev,62.92,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-13,1546,CloudFront,eu-central-1,Dev,54.24,Storage,Spot,FinOps,DataTeam,USD
+2026-02-13,1115,Amazon S3,us-west-2,Production,9.86,Network,On-Demand,WebApp,Miguel,USD
+2026-02-13,1069,Amazon S3,us-east-1,Production,52.89,Compute,Reserved,Analytics,Miguel,USD
+2026-02-13,1710,Amazon RDS,eu-central-1,Dev,48.23,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-13,1213,Amazon S3,us-east-1,Production,66.17,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-13,1238,Amazon S3,us-east-1,Production,83.26,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-13,1478,AWS Lambda,us-west-2,Production,17.67,Storage,Spot,FinOps,DataTeam,USD
+2026-02-13,1609,AWS Lambda,us-west-2,QA,68.36,Network,On-Demand,WebApp,Miguel,USD
+2026-02-13,1659,CloudFront,us-east-1,Production,35.0,Compute,Spot,Analytics,DevOps,USD
+2026-02-13,1558,Amazon S3,us-east-1,Production,41.58,Network,Reserved,FinOps,DevOps,USD
+2026-02-14,1559,Amazon S3,eu-central-1,Production,74.91,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-14,1038,AWS Lambda,us-west-2,Production,79.96,Compute,Spot,FinOps,DataTeam,USD
+2026-02-14,1202,Amazon S3,eu-central-1,Dev,84.46,Network,Reserved,Analytics,DataTeam,USD
+2026-02-14,1163,AWS Lambda,eu-central-1,Production,66.4,Compute,Spot,WebApp,DevOps,USD
+2026-02-14,1614,Amazon RDS,us-east-1,Dev,76.42,Network,Spot,WebApp,DataTeam,USD
+2026-02-14,1125,Amazon S3,us-east-1,QA,10.23,Storage,Reserved,Analytics,Miguel,USD
+2026-02-14,1113,Amazon S3,us-west-2,Dev,11.28,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-14,1217,CloudFront,us-east-1,Dev,67.91,Storage,Spot,Analytics,Miguel,USD
+2026-02-14,1655,AWS Lambda,us-east-1,Dev,18.27,Network,Spot,FinOps,DevOps,USD
+2026-02-14,1148,AWS Lambda,us-west-2,QA,75.0,Storage,Reserved,Analytics,DevOps,USD
+2026-02-14,1906,Amazon EC2,us-east-1,Dev,68.81,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-14,1447,CloudFront,us-west-2,QA,46.61,Compute,On-Demand,FinOps,DevOps,USD
+2026-02-14,1393,Amazon S3,us-east-1,QA,22.73,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-14,1743,Amazon EC2,us-east-1,QA,9.66,Storage,Spot,Analytics,Miguel,USD
+2026-02-14,1504,Amazon EC2,us-east-1,Dev,61.65,Compute,Reserved,FinOps,DevOps,USD
+2026-02-14,1938,Amazon EC2,eu-central-1,Dev,69.15,Network,Reserved,FinOps,DevOps,USD
+2026-02-14,1813,Amazon S3,us-west-2,Dev,77.13,Network,On-Demand,WebApp,DataTeam,USD
+2026-02-14,1947,Amazon S3,us-east-1,QA,36.21,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-14,1577,CloudFront,us-west-2,QA,67.74,Storage,Reserved,FinOps,DevOps,USD
+2026-02-14,1576,Amazon RDS,us-east-1,Dev,46.04,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-15,1045,AWS Lambda,eu-central-1,Production,25.68,Compute,Reserved,FinOps,Miguel,USD
+2026-02-15,1546,Amazon S3,eu-central-1,Dev,29.07,Network,Spot,FinOps,DataTeam,USD
+2026-02-15,1704,AWS Lambda,eu-central-1,QA,34.4,Network,On-Demand,WebApp,Miguel,USD
+2026-02-15,1074,Amazon S3,us-west-2,QA,33.01,Storage,Reserved,WebApp,DevOps,USD
+2026-02-15,1038,AWS Lambda,eu-central-1,Production,88.48,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-15,1894,Amazon EC2,eu-central-1,QA,69.98,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-15,1438,Amazon RDS,us-east-1,QA,53.76,Compute,Spot,Analytics,DevOps,USD
+2026-02-15,1371,CloudFront,us-east-1,Dev,56.77,Compute,Reserved,Analytics,Miguel,USD
+2026-02-15,1533,Amazon S3,us-west-2,Dev,25.74,Network,Spot,WebApp,Miguel,USD
+2026-02-15,1596,Amazon S3,us-east-1,Production,18.36,Network,Reserved,FinOps,Miguel,USD
+2026-02-15,1755,Amazon S3,us-west-2,QA,98.1,Network,Reserved,WebApp,DataTeam,USD
+2026-02-15,1979,AWS Lambda,us-west-2,Production,26.24,Network,On-Demand,Analytics,Miguel,USD
+2026-02-15,1866,Amazon RDS,us-east-1,Dev,14.34,Storage,Spot,FinOps,Miguel,USD
+2026-02-15,1361,CloudFront,us-east-1,Dev,29.02,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-15,1892,CloudFront,us-west-2,QA,38.2,Storage,Reserved,FinOps,DevOps,USD
+2026-02-15,1259,CloudFront,us-west-2,QA,18.88,Network,Spot,Analytics,DevOps,USD
+2026-02-15,1625,AWS Lambda,us-west-2,QA,15.21,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-15,1569,Amazon RDS,us-east-1,Dev,25.09,Network,Reserved,FinOps,Miguel,USD
+2026-02-15,1097,Amazon RDS,us-east-1,QA,98.91,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-15,1541,AWS Lambda,us-west-2,Dev,82.52,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-16,1385,Amazon S3,us-west-2,Production,64.82,Compute,Spot,FinOps,DevOps,USD
+2026-02-16,1674,Amazon RDS,eu-central-1,Production,31.74,Compute,Reserved,FinOps,DevOps,USD
+2026-02-16,1046,Amazon RDS,us-west-2,QA,34.06,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-16,1382,AWS Lambda,us-east-1,QA,65.54,Network,Spot,Analytics,DataTeam,USD
+2026-02-16,1396,AWS Lambda,eu-central-1,QA,65.32,Compute,Reserved,WebApp,DataTeam,USD
+2026-02-16,1809,Amazon EC2,us-east-1,QA,28.64,Storage,Reserved,Analytics,Miguel,USD
+2026-02-16,1615,Amazon RDS,us-west-2,QA,31.33,Storage,Reserved,WebApp,DevOps,USD
+2026-02-16,1891,CloudFront,us-west-2,QA,20.44,Compute,Spot,FinOps,DevOps,USD
+2026-02-16,1842,CloudFront,eu-central-1,Production,5.82,Storage,Spot,Analytics,DevOps,USD
+2026-02-16,1681,Amazon S3,us-east-1,Production,75.91,Compute,Spot,FinOps,DevOps,USD
+2026-02-16,1366,Amazon EC2,eu-central-1,Production,60.9,Compute,Reserved,FinOps,Miguel,USD
+2026-02-16,1281,Amazon EC2,us-east-1,QA,75.2,Compute,Spot,WebApp,Miguel,USD
+2026-02-16,1017,AWS Lambda,us-west-2,Dev,64.55,Compute,Spot,FinOps,DataTeam,USD
+2026-02-16,1752,Amazon EC2,us-west-2,QA,92.09,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-16,1922,Amazon S3,us-east-1,QA,12.76,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-16,1934,Amazon S3,eu-central-1,QA,56.58,Network,Spot,Analytics,Miguel,USD
+2026-02-16,1724,CloudFront,us-east-1,QA,78.91,Network,On-Demand,WebApp,DataTeam,USD
+2026-02-16,1780,Amazon EC2,us-west-2,Production,93.6,Network,Reserved,WebApp,DevOps,USD
+2026-02-16,1631,Amazon S3,eu-central-1,QA,39.08,Compute,Spot,WebApp,DataTeam,USD
+2026-02-16,1371,Amazon EC2,us-east-1,Production,28.32,Storage,On-Demand,FinOps,DevOps,USD
+2026-02-17,1574,Amazon RDS,us-east-1,QA,14.54,Compute,Reserved,FinOps,Miguel,USD
+2026-02-17,1405,AWS Lambda,eu-central-1,Production,81.05,Compute,Spot,Analytics,DevOps,USD
+2026-02-17,1350,Amazon RDS,us-west-2,Dev,6.87,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-17,1165,Amazon S3,eu-central-1,Production,43.75,Compute,Spot,Analytics,DataTeam,USD
+2026-02-17,1303,Amazon EC2,us-east-1,Dev,64.14,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-17,1760,CloudFront,us-east-1,Dev,85.2,Network,Reserved,WebApp,Miguel,USD
+2026-02-17,1638,Amazon EC2,eu-central-1,QA,93.97,Network,Reserved,Analytics,DataTeam,USD
+2026-02-17,1392,CloudFront,us-east-1,Production,22.37,Network,On-Demand,Analytics,DevOps,USD
+2026-02-17,1422,Amazon EC2,us-west-2,QA,6.61,Network,Spot,WebApp,Miguel,USD
+2026-02-17,1999,Amazon S3,us-east-1,Production,93.57,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-17,1691,CloudFront,us-east-1,Dev,48.66,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-17,1385,Amazon EC2,us-east-1,QA,51.1,Compute,Spot,FinOps,Miguel,USD
+2026-02-17,1772,AWS Lambda,us-east-1,Production,63.25,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-17,1605,Amazon RDS,us-east-1,QA,64.55,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-17,1891,AWS Lambda,us-east-1,Production,24.62,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-17,1331,Amazon RDS,us-east-1,Dev,5.06,Compute,Reserved,Analytics,DevOps,USD
+2026-02-17,1648,Amazon RDS,us-west-2,Production,14.61,Compute,Spot,Analytics,DevOps,USD
+2026-02-17,1830,Amazon RDS,us-east-1,QA,35.41,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-17,1089,Amazon RDS,us-east-1,Production,45.62,Storage,Reserved,FinOps,DevOps,USD
+2026-02-17,1781,CloudFront,eu-central-1,Dev,12.5,Compute,On-Demand,WebApp,Miguel,USD
+2026-02-18,1976,AWS Lambda,us-west-2,QA,55.28,Storage,Spot,FinOps,DevOps,USD
+2026-02-18,1465,CloudFront,eu-central-1,QA,85.44,Network,Reserved,FinOps,Miguel,USD
+2026-02-18,1949,CloudFront,us-east-1,Production,27.64,Network,On-Demand,Analytics,Miguel,USD
+2026-02-18,1841,Amazon RDS,us-west-2,Dev,15.1,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-18,1591,Amazon EC2,eu-central-1,Production,56.69,Storage,Spot,FinOps,Miguel,USD
+2026-02-18,1938,Amazon S3,us-east-1,Dev,52.26,Network,On-Demand,Analytics,Miguel,USD
+2026-02-18,1436,Amazon RDS,us-east-1,QA,44.8,Storage,Spot,FinOps,DevOps,USD
+2026-02-18,1100,Amazon EC2,us-west-2,Dev,75.49,Network,On-Demand,Analytics,Miguel,USD
+2026-02-18,1181,Amazon S3,eu-central-1,QA,82.99,Network,Spot,WebApp,Miguel,USD
+2026-02-18,1735,Amazon S3,us-east-1,QA,51.84,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-18,1024,AWS Lambda,eu-central-1,QA,17.09,Compute,Reserved,FinOps,DevOps,USD
+2026-02-18,1181,Amazon RDS,us-west-2,QA,9.94,Compute,Spot,WebApp,DevOps,USD
+2026-02-18,1798,AWS Lambda,us-east-1,Production,53.42,Network,Spot,WebApp,DevOps,USD
+2026-02-18,1612,AWS Lambda,us-east-1,Production,88.61,Network,Reserved,Analytics,DevOps,USD
+2026-02-18,1387,Amazon RDS,us-west-2,QA,15.64,Network,Reserved,WebApp,DevOps,USD
+2026-02-18,1503,Amazon RDS,us-west-2,Production,75.34,Network,On-Demand,Analytics,DevOps,USD
+2026-02-18,1909,Amazon S3,us-west-2,QA,64.38,Network,Spot,WebApp,DevOps,USD
+2026-02-18,1934,CloudFront,us-west-2,Production,8.08,Compute,Reserved,WebApp,DevOps,USD
+2026-02-18,1559,AWS Lambda,us-west-2,Dev,19.7,Storage,Spot,FinOps,Miguel,USD
+2026-02-18,1987,Amazon RDS,us-west-2,Dev,24.45,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-19,1864,Amazon S3,eu-central-1,Dev,10.18,Network,Spot,Analytics,DataTeam,USD
+2026-02-19,1395,AWS Lambda,us-east-1,QA,35.29,Network,On-Demand,FinOps,DevOps,USD
+2026-02-19,1653,Amazon RDS,us-west-2,Dev,6.49,Storage,Spot,Analytics,DevOps,USD
+2026-02-19,1855,Amazon S3,us-east-1,QA,79.36,Network,Spot,WebApp,DataTeam,USD
+2026-02-19,1273,Amazon EC2,us-east-1,Production,11.89,Network,Spot,FinOps,DataTeam,USD
+2026-02-19,1469,AWS Lambda,us-west-2,Production,77.89,Storage,Spot,Analytics,DataTeam,USD
+2026-02-19,1731,Amazon S3,us-west-2,QA,16.72,Network,On-Demand,FinOps,Miguel,USD
+2026-02-19,1285,Amazon S3,eu-central-1,Production,40.47,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-19,1934,Amazon RDS,us-west-2,Production,15.05,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-19,1489,Amazon RDS,us-west-2,Dev,59.96,Compute,Spot,WebApp,DevOps,USD
+2026-02-19,1249,Amazon S3,eu-central-1,Production,44.85,Network,Spot,WebApp,Miguel,USD
+2026-02-19,1873,Amazon S3,eu-central-1,QA,52.53,Network,Reserved,FinOps,Miguel,USD
+2026-02-19,1792,Amazon S3,us-west-2,Dev,49.06,Network,Spot,WebApp,DataTeam,USD
+2026-02-19,1146,Amazon RDS,eu-central-1,Dev,68.95,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-19,1868,AWS Lambda,us-east-1,QA,85.04,Storage,Reserved,Analytics,DevOps,USD
+2026-02-19,1935,AWS Lambda,us-east-1,Production,38.25,Compute,Spot,Analytics,Miguel,USD
+2026-02-19,1713,Amazon EC2,us-west-2,Production,78.63,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-19,1126,Amazon RDS,us-east-1,Production,53.34,Compute,Spot,FinOps,DataTeam,USD
+2026-02-19,1784,CloudFront,us-west-2,Dev,13.09,Compute,Spot,WebApp,DataTeam,USD
+2026-02-19,1309,CloudFront,us-west-2,Dev,32.91,Storage,Spot,Analytics,DataTeam,USD
+2026-02-20,1687,AWS Lambda,eu-central-1,Production,64.96,Storage,Reserved,Analytics,Miguel,USD
+2026-02-20,1347,AWS Lambda,us-west-2,Production,81.84,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-20,1373,Amazon RDS,us-east-1,Dev,37.51,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-20,1852,Amazon S3,us-east-1,QA,70.08,Network,On-Demand,FinOps,Miguel,USD
+2026-02-20,1824,Amazon RDS,eu-central-1,QA,47.02,Compute,On-Demand,FinOps,DevOps,USD
+2026-02-20,1011,AWS Lambda,us-west-2,Dev,27.56,Compute,Spot,Analytics,DataTeam,USD
+2026-02-20,1550,Amazon RDS,us-east-1,QA,13.97,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-20,1802,Amazon RDS,us-east-1,Production,65.37,Network,Spot,Analytics,Miguel,USD
+2026-02-20,1439,AWS Lambda,us-east-1,QA,72.43,Network,Spot,WebApp,DevOps,USD
+2026-02-20,1573,Amazon S3,us-west-2,Dev,48.53,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-20,1344,Amazon RDS,us-east-1,QA,49.63,Compute,Reserved,WebApp,DevOps,USD
+2026-02-20,1275,Amazon EC2,us-west-2,Dev,37.14,Storage,Spot,FinOps,Miguel,USD
+2026-02-20,1620,CloudFront,eu-central-1,Dev,96.95,Network,Reserved,FinOps,Miguel,USD
+2026-02-20,1298,Amazon RDS,us-east-1,Production,28.43,Network,Spot,Analytics,DevOps,USD
+2026-02-20,1678,CloudFront,us-east-1,Production,58.67,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-20,1809,Amazon EC2,us-west-2,QA,85.66,Network,Reserved,FinOps,Miguel,USD
+2026-02-20,1253,AWS Lambda,us-east-1,QA,87.97,Compute,Spot,Analytics,DataTeam,USD
+2026-02-20,1860,CloudFront,us-east-1,QA,24.79,Network,On-Demand,WebApp,Miguel,USD
+2026-02-20,1687,Amazon S3,us-east-1,Production,77.38,Storage,Reserved,WebApp,DevOps,USD
+2026-02-20,1229,Amazon S3,us-west-2,Dev,19.91,Storage,On-Demand,Analytics,DataTeam,USD
+2026-02-21,1085,Amazon RDS,eu-central-1,Production,28.95,Compute,On-Demand,Analytics,DevOps,USD
+2026-02-21,1132,Amazon RDS,eu-central-1,Dev,95.67,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-21,1787,AWS Lambda,eu-central-1,QA,61.55,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-21,1798,Amazon EC2,eu-central-1,QA,62.37,Storage,Spot,Analytics,Miguel,USD
+2026-02-21,1700,Amazon EC2,eu-central-1,Production,8.9,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-21,1393,AWS Lambda,eu-central-1,QA,85.94,Network,Spot,Analytics,DevOps,USD
+2026-02-21,1227,Amazon EC2,eu-central-1,Production,25.87,Network,Reserved,Analytics,DevOps,USD
+2026-02-21,1701,Amazon EC2,eu-central-1,QA,76.61,Compute,Reserved,FinOps,DevOps,USD
+2026-02-21,1593,AWS Lambda,us-east-1,Production,43.55,Network,Reserved,Analytics,DevOps,USD
+2026-02-21,1880,Amazon EC2,us-east-1,QA,72.07,Network,On-Demand,FinOps,Miguel,USD
+2026-02-21,1627,CloudFront,eu-central-1,Dev,18.8,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-21,1966,Amazon EC2,us-west-2,Production,8.42,Network,Spot,FinOps,Miguel,USD
+2026-02-21,1228,AWS Lambda,eu-central-1,Dev,85.32,Network,Spot,WebApp,Miguel,USD
+2026-02-21,1542,CloudFront,us-west-2,Production,98.17,Network,Reserved,WebApp,DevOps,USD
+2026-02-21,1705,CloudFront,us-east-1,Production,11.33,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-21,1228,CloudFront,us-west-2,Dev,90.65,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-21,1614,Amazon EC2,eu-central-1,QA,52.47,Network,Spot,Analytics,DevOps,USD
+2026-02-21,1697,Amazon RDS,us-west-2,Dev,58.1,Compute,Reserved,WebApp,Miguel,USD
+2026-02-21,1736,Amazon EC2,eu-central-1,Dev,52.76,Storage,Reserved,WebApp,Miguel,USD
+2026-02-21,1332,Amazon EC2,us-east-1,Dev,5.81,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-22,1400,AWS Lambda,eu-central-1,QA,76.72,Compute,Reserved,FinOps,Miguel,USD
+2026-02-22,1152,CloudFront,us-west-2,Production,69.26,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-22,1600,CloudFront,us-west-2,Production,57.23,Compute,Reserved,FinOps,Miguel,USD
+2026-02-22,1412,Amazon RDS,eu-central-1,Dev,67.9,Storage,Spot,Analytics,DataTeam,USD
+2026-02-22,1661,Amazon S3,us-west-2,Dev,49.72,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-22,1376,AWS Lambda,us-west-2,Production,41.48,Network,On-Demand,Analytics,DevOps,USD
+2026-02-22,1155,Amazon RDS,us-east-1,Production,60.25,Compute,On-Demand,FinOps,DevOps,USD
+2026-02-22,1447,Amazon RDS,eu-central-1,Dev,54.71,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-22,1215,Amazon RDS,eu-central-1,Production,87.61,Storage,On-Demand,FinOps,Miguel,USD
+2026-02-22,1389,Amazon EC2,us-west-2,QA,67.96,Compute,On-Demand,WebApp,DataTeam,USD
+2026-02-22,1727,AWS Lambda,us-west-2,Dev,66.93,Network,Reserved,FinOps,DataTeam,USD
+2026-02-22,1953,Amazon RDS,us-west-2,Production,37.84,Storage,Spot,WebApp,DevOps,USD
+2026-02-22,1563,Amazon RDS,eu-central-1,Dev,93.33,Compute,Reserved,FinOps,DevOps,USD
+2026-02-22,1777,CloudFront,us-west-2,QA,26.54,Network,Spot,Analytics,DevOps,USD
+2026-02-22,1782,AWS Lambda,us-east-1,QA,23.01,Compute,Reserved,Analytics,DevOps,USD
+2026-02-22,1593,Amazon S3,us-east-1,QA,27.74,Storage,Spot,Analytics,DevOps,USD
+2026-02-22,1132,Amazon S3,eu-central-1,Dev,59.37,Compute,Spot,Analytics,Miguel,USD
+2026-02-22,1572,Amazon RDS,eu-central-1,Dev,76.89,Network,Reserved,Analytics,Miguel,USD
+2026-02-22,1791,Amazon EC2,us-west-2,Dev,8.96,Network,Spot,FinOps,Miguel,USD
+2026-02-22,1705,Amazon S3,us-west-2,QA,88.2,Network,Spot,WebApp,DevOps,USD
+2026-02-23,1164,CloudFront,us-east-1,QA,43.08,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-23,1137,Amazon RDS,eu-central-1,QA,25.69,Network,Reserved,Analytics,DataTeam,USD
+2026-02-23,1370,Amazon S3,us-east-1,Dev,81.84,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-23,1090,Amazon RDS,us-east-1,QA,48.64,Compute,On-Demand,FinOps,Miguel,USD
+2026-02-23,1355,AWS Lambda,us-east-1,Dev,27.05,Storage,Reserved,Analytics,DevOps,USD
+2026-02-23,1645,Amazon EC2,eu-central-1,QA,28.15,Compute,On-Demand,WebApp,Miguel,USD
+2026-02-23,1164,AWS Lambda,us-east-1,Dev,59.63,Storage,Reserved,FinOps,Miguel,USD
+2026-02-23,1577,Amazon EC2,us-west-2,Production,48.67,Storage,Spot,FinOps,DataTeam,USD
+2026-02-23,1036,Amazon RDS,us-east-1,Dev,21.9,Compute,Spot,Analytics,Miguel,USD
+2026-02-23,1466,Amazon S3,us-east-1,Production,86.88,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-23,1392,CloudFront,eu-central-1,Production,99.98,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-23,1214,Amazon EC2,eu-central-1,Production,96.47,Network,On-Demand,Analytics,DevOps,USD
+2026-02-23,1190,Amazon S3,us-east-1,Dev,31.64,Network,Reserved,FinOps,DevOps,USD
+2026-02-23,1168,Amazon S3,us-west-2,Dev,58.18,Compute,Spot,Analytics,Miguel,USD
+2026-02-23,1707,Amazon RDS,us-west-2,QA,62.32,Network,Reserved,Analytics,Miguel,USD
+2026-02-23,1638,CloudFront,us-west-2,QA,10.2,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-23,1782,Amazon EC2,us-east-1,QA,78.94,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-23,1265,CloudFront,us-west-2,Dev,15.12,Compute,Spot,FinOps,DevOps,USD
+2026-02-23,1618,CloudFront,us-east-1,Dev,14.38,Storage,Spot,Analytics,DevOps,USD
+2026-02-23,1122,CloudFront,eu-central-1,Dev,75.25,Storage,On-Demand,FinOps,DevOps,USD
+2026-02-24,1708,Amazon S3,us-west-2,QA,10.18,Network,On-Demand,Analytics,Miguel,USD
+2026-02-24,1131,Amazon EC2,us-west-2,QA,86.65,Compute,Reserved,WebApp,DataTeam,USD
+2026-02-24,1042,Amazon S3,us-west-2,QA,76.03,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-24,1911,Amazon S3,us-east-1,Dev,32.54,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-24,1519,Amazon RDS,us-west-2,QA,39.52,Network,Spot,Analytics,DevOps,USD
+2026-02-24,1628,AWS Lambda,eu-central-1,Dev,61.18,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-24,1877,Amazon EC2,eu-central-1,Production,44.55,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-24,1601,Amazon RDS,eu-central-1,Production,91.3,Compute,Spot,FinOps,DataTeam,USD
+2026-02-24,1842,CloudFront,us-west-2,Dev,91.41,Network,Reserved,Analytics,Miguel,USD
+2026-02-24,1158,AWS Lambda,us-west-2,QA,55.57,Network,Spot,FinOps,Miguel,USD
+2026-02-24,1705,Amazon S3,us-east-1,Dev,52.79,Compute,Spot,FinOps,DataTeam,USD
+2026-02-24,1455,Amazon S3,eu-central-1,Dev,50.44,Storage,Reserved,Analytics,Miguel,USD
+2026-02-24,1704,Amazon EC2,us-east-1,QA,35.56,Network,Reserved,Analytics,DevOps,USD
+2026-02-24,1269,AWS Lambda,us-west-2,Dev,84.99,Network,Reserved,WebApp,Miguel,USD
+2026-02-24,1962,Amazon EC2,us-east-1,QA,84.32,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-24,1103,Amazon S3,us-west-2,QA,35.41,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-24,1711,AWS Lambda,eu-central-1,Production,29.94,Network,Reserved,FinOps,Miguel,USD
+2026-02-24,1520,AWS Lambda,us-west-2,QA,44.53,Compute,Spot,WebApp,Miguel,USD
+2026-02-24,1947,AWS Lambda,eu-central-1,QA,44.13,Network,On-Demand,WebApp,Miguel,USD
+2026-02-24,1072,CloudFront,us-east-1,Dev,73.59,Storage,Reserved,Analytics,Miguel,USD
+2026-02-25,1825,Amazon RDS,eu-central-1,Production,47.34,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-25,1381,Amazon S3,us-west-2,Dev,82.14,Compute,Reserved,FinOps,DevOps,USD
+2026-02-25,1912,Amazon EC2,us-west-2,QA,26.72,Network,Spot,Analytics,Miguel,USD
+2026-02-25,1263,AWS Lambda,eu-central-1,Dev,82.84,Storage,Spot,FinOps,Miguel,USD
+2026-02-25,1560,AWS Lambda,eu-central-1,QA,42.97,Network,Spot,Analytics,DevOps,USD
+2026-02-25,1509,Amazon RDS,eu-central-1,QA,90.77,Compute,Reserved,WebApp,DevOps,USD
+2026-02-25,1745,Amazon RDS,us-west-2,QA,66.05,Compute,Reserved,WebApp,Miguel,USD
+2026-02-25,1563,Amazon EC2,us-west-2,Dev,68.87,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-25,1865,Amazon EC2,us-east-1,Production,88.35,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-25,1316,Amazon RDS,eu-central-1,Dev,27.8,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-25,1337,Amazon EC2,eu-central-1,QA,37.83,Network,On-Demand,WebApp,Miguel,USD
+2026-02-25,1970,AWS Lambda,us-east-1,Dev,77.84,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-25,1886,CloudFront,us-west-2,Dev,28.8,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-25,1022,Amazon S3,eu-central-1,Production,87.24,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-25,1208,Amazon RDS,us-west-2,Dev,34.42,Network,On-Demand,FinOps,DevOps,USD
+2026-02-25,1718,CloudFront,eu-central-1,QA,63.6,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-25,1364,Amazon EC2,eu-central-1,QA,30.17,Compute,Spot,FinOps,Miguel,USD
+2026-02-25,1010,Amazon EC2,us-east-1,QA,93.61,Network,On-Demand,WebApp,Miguel,USD
+2026-02-25,1208,Amazon EC2,us-east-1,Production,88.43,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-25,1629,Amazon EC2,us-west-2,QA,89.34,Storage,Reserved,Analytics,Miguel,USD
+2026-02-26,1697,Amazon S3,us-east-1,Production,54.42,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-26,1071,AWS Lambda,us-west-2,QA,19.71,Network,Spot,FinOps,DevOps,USD
+2026-02-26,1909,Amazon RDS,eu-central-1,Dev,52.85,Compute,Spot,FinOps,Miguel,USD
+2026-02-26,1848,Amazon S3,eu-central-1,Production,29.49,Network,On-Demand,Analytics,DevOps,USD
+2026-02-26,1599,CloudFront,eu-central-1,Production,31.89,Storage,On-Demand,WebApp,Miguel,USD
+2026-02-26,1639,Amazon RDS,us-east-1,Dev,9.1,Storage,Spot,FinOps,DataTeam,USD
+2026-02-26,1209,CloudFront,eu-central-1,QA,31.17,Storage,On-Demand,Analytics,DevOps,USD
+2026-02-26,1053,Amazon S3,eu-central-1,Production,51.17,Compute,Reserved,Analytics,Miguel,USD
+2026-02-26,1157,Amazon RDS,us-east-1,Production,14.98,Network,Spot,FinOps,Miguel,USD
+2026-02-26,1835,Amazon RDS,eu-central-1,Dev,6.03,Compute,Spot,WebApp,Miguel,USD
+2026-02-26,1167,CloudFront,us-west-2,Production,43.95,Storage,On-Demand,Analytics,Miguel,USD
+2026-02-26,1573,Amazon EC2,us-west-2,Production,76.47,Storage,Reserved,Analytics,DataTeam,USD
+2026-02-26,1746,Amazon S3,us-east-1,Dev,64.49,Network,On-Demand,FinOps,DataTeam,USD
+2026-02-26,1802,AWS Lambda,us-east-1,Dev,78.59,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-26,1980,CloudFront,us-east-1,Production,14.88,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-26,1106,AWS Lambda,us-west-2,Production,74.44,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-26,1209,Amazon S3,us-east-1,Production,46.66,Network,On-Demand,WebApp,DataTeam,USD
+2026-02-26,1185,Amazon RDS,us-east-1,Dev,82.7,Network,Spot,FinOps,DevOps,USD
+2026-02-26,1210,Amazon S3,us-west-2,Dev,99.21,Storage,Reserved,FinOps,Miguel,USD
+2026-02-26,1043,Amazon RDS,us-east-1,Dev,34.91,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-27,1088,Amazon S3,us-east-1,QA,62.48,Network,Spot,FinOps,DataTeam,USD
+2026-02-27,1188,Amazon EC2,eu-central-1,Production,56.47,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-27,1338,Amazon S3,eu-central-1,QA,88.12,Storage,Reserved,FinOps,Miguel,USD
+2026-02-27,1797,AWS Lambda,us-east-1,Production,46.67,Network,Spot,Analytics,DevOps,USD
+2026-02-27,1022,Amazon S3,us-east-1,QA,19.01,Network,Spot,FinOps,Miguel,USD
+2026-02-27,1243,Amazon EC2,eu-central-1,Production,57.12,Network,Reserved,FinOps,DevOps,USD
+2026-02-27,1364,Amazon RDS,us-west-2,QA,29.24,Compute,On-Demand,Analytics,Miguel,USD
+2026-02-27,1554,Amazon S3,us-east-1,Dev,77.64,Storage,On-Demand,WebApp,DevOps,USD
+2026-02-27,1059,Amazon RDS,us-east-1,Production,71.11,Storage,Reserved,FinOps,DevOps,USD
+2026-02-27,1535,Amazon S3,us-west-2,Production,61.99,Network,On-Demand,Analytics,DataTeam,USD
+2026-02-27,1166,AWS Lambda,eu-central-1,Production,20.48,Compute,On-Demand,FinOps,DevOps,USD
+2026-02-27,1877,Amazon S3,us-west-2,Production,35.46,Storage,On-Demand,WebApp,DataTeam,USD
+2026-02-27,1140,CloudFront,us-east-1,Production,35.95,Compute,Reserved,Analytics,Miguel,USD
+2026-02-27,1686,CloudFront,eu-central-1,QA,47.56,Network,Reserved,FinOps,DataTeam,USD
+2026-02-27,1287,Amazon RDS,us-west-2,Production,7.82,Storage,Reserved,FinOps,DataTeam,USD
+2026-02-27,1059,CloudFront,us-east-1,Dev,99.3,Compute,Reserved,FinOps,DataTeam,USD
+2026-02-27,1570,CloudFront,us-east-1,Dev,24.74,Storage,On-Demand,FinOps,Miguel,USD
+2026-02-27,1267,Amazon EC2,us-east-1,QA,15.08,Compute,On-Demand,Analytics,DataTeam,USD
+2026-02-27,1048,AWS Lambda,eu-central-1,Production,39.59,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-27,1572,Amazon RDS,us-east-1,Dev,8.86,Storage,Spot,WebApp,Miguel,USD
+2026-02-28,1963,Amazon S3,us-east-1,QA,19.39,Storage,Spot,FinOps,DevOps,USD
+2026-02-28,1229,Amazon RDS,us-east-1,QA,62.65,Storage,On-Demand,FinOps,DataTeam,USD
+2026-02-28,1912,Amazon RDS,us-west-2,Dev,43.25,Network,Reserved,WebApp,DevOps,USD
+2026-02-28,1060,Amazon S3,us-west-2,Production,22.97,Storage,Spot,FinOps,DevOps,USD
+2026-02-28,1738,CloudFront,us-east-1,Dev,38.47,Storage,Spot,WebApp,DevOps,USD
+2026-02-28,1670,Amazon EC2,eu-central-1,QA,70.92,Network,On-Demand,FinOps,DevOps,USD
+2026-02-28,1872,AWS Lambda,us-west-2,QA,69.18,Network,Spot,FinOps,DataTeam,USD
+2026-02-28,1546,Amazon EC2,us-east-1,QA,12.22,Network,Reserved,FinOps,Miguel,USD
+2026-02-28,1661,Amazon S3,eu-central-1,QA,27.25,Compute,Spot,FinOps,DataTeam,USD
+2026-02-28,1679,Amazon EC2,us-west-2,Dev,51.86,Compute,Spot,FinOps,DevOps,USD
+2026-02-28,1617,Amazon S3,eu-central-1,QA,62.4,Compute,On-Demand,WebApp,DevOps,USD
+2026-02-28,1652,Amazon RDS,eu-central-1,Production,13.48,Compute,Reserved,Analytics,DataTeam,USD
+2026-02-28,1598,CloudFront,us-west-2,QA,63.8,Network,On-Demand,Analytics,DevOps,USD
+2026-02-28,1765,Amazon EC2,eu-central-1,Production,7.35,Storage,Reserved,WebApp,DataTeam,USD
+2026-02-28,1948,Amazon RDS,eu-central-1,Production,17.22,Storage,Reserved,WebApp,Miguel,USD
+2026-02-28,1561,Amazon EC2,us-east-1,Production,19.3,Storage,Reserved,Analytics,Miguel,USD
+2026-02-28,1995,AWS Lambda,eu-central-1,Production,97.21,Network,On-Demand,FinOps,DevOps,USD
+2026-02-28,1963,Amazon S3,eu-central-1,Dev,29.14,Compute,Spot,FinOps,DataTeam,USD
+2026-02-28,1947,AWS Lambda,eu-central-1,Dev,23.33,Storage,Spot,FinOps,DataTeam,USD
+2026-02-28,1948,Amazon RDS,eu-central-1,Dev,39.93,Compute,Spot,Analytics,DevOps,USD
+2026-03-01,1183,Amazon S3,eu-central-1,QA,25.53,Compute,Reserved,WebApp,DevOps,USD
+2026-03-01,1512,Amazon RDS,eu-central-1,Production,25.02,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-01,1889,CloudFront,us-west-2,Dev,17.75,Network,On-Demand,Analytics,DevOps,USD
+2026-03-01,1232,CloudFront,eu-central-1,Dev,84.19,Network,On-Demand,Analytics,Miguel,USD
+2026-03-01,1226,Amazon S3,us-west-2,Production,87.78,Network,Spot,WebApp,Miguel,USD
+2026-03-01,1060,Amazon RDS,us-west-2,Production,99.65,Storage,Reserved,FinOps,Miguel,USD
+2026-03-01,1141,AWS Lambda,us-east-1,Dev,87.51,Network,Spot,Analytics,DevOps,USD
+2026-03-01,1672,Amazon EC2,us-east-1,Dev,8.64,Network,On-Demand,Analytics,Miguel,USD
+2026-03-01,1563,CloudFront,us-west-2,QA,56.7,Compute,Spot,WebApp,DataTeam,USD
+2026-03-01,1929,Amazon RDS,us-east-1,Production,52.15,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-01,1119,CloudFront,eu-central-1,Dev,81.71,Network,Reserved,FinOps,Miguel,USD
+2026-03-01,1913,Amazon RDS,us-east-1,Production,52.84,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-01,1928,CloudFront,us-east-1,Dev,80.28,Storage,Reserved,FinOps,DevOps,USD
+2026-03-01,1160,Amazon S3,us-east-1,Dev,51.92,Network,Reserved,WebApp,DataTeam,USD
+2026-03-01,1041,Amazon RDS,us-east-1,QA,79.47,Network,Reserved,FinOps,DataTeam,USD
+2026-03-01,1527,AWS Lambda,us-west-2,QA,79.99,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-01,1897,CloudFront,eu-central-1,Production,41.5,Compute,Spot,Analytics,DevOps,USD
+2026-03-01,1415,Amazon EC2,us-east-1,Production,23.6,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-01,1992,Amazon EC2,us-west-2,Production,61.14,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-01,1891,Amazon EC2,us-east-1,QA,94.47,Network,Spot,WebApp,DataTeam,USD
+2026-03-02,1439,Amazon S3,us-east-1,Production,29.25,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-02,1853,Amazon RDS,us-west-2,QA,68.06,Network,On-Demand,WebApp,DevOps,USD
+2026-03-02,1267,CloudFront,eu-central-1,Dev,82.96,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-02,1009,Amazon EC2,us-west-2,Production,93.59,Network,Spot,FinOps,DevOps,USD
+2026-03-02,1277,CloudFront,us-east-1,Dev,16.42,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-02,1122,CloudFront,us-east-1,Dev,47.21,Compute,Spot,FinOps,DevOps,USD
+2026-03-02,1688,Amazon S3,us-west-2,Dev,99.07,Compute,Spot,Analytics,Miguel,USD
+2026-03-02,1324,Amazon S3,eu-central-1,Production,21.78,Compute,Spot,FinOps,DevOps,USD
+2026-03-02,1892,Amazon S3,us-east-1,Production,22.85,Network,Reserved,FinOps,DevOps,USD
+2026-03-02,1436,AWS Lambda,eu-central-1,Dev,84.86,Storage,Spot,FinOps,Miguel,USD
+2026-03-02,1575,CloudFront,eu-central-1,Dev,23.0,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-02,1376,Amazon EC2,us-west-2,QA,40.42,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-02,1038,CloudFront,eu-central-1,Dev,62.31,Storage,Reserved,WebApp,Miguel,USD
+2026-03-02,1022,AWS Lambda,eu-central-1,QA,14.93,Compute,Spot,WebApp,DataTeam,USD
+2026-03-02,1472,Amazon S3,us-east-1,Dev,46.64,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-02,1560,Amazon RDS,us-east-1,QA,79.01,Storage,On-Demand,WebApp,DataTeam,USD
+2026-03-02,1844,AWS Lambda,eu-central-1,Dev,76.56,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-02,1890,Amazon EC2,us-west-2,Production,73.99,Network,On-Demand,FinOps,Miguel,USD
+2026-03-02,1261,Amazon EC2,us-east-1,Production,66.07,Storage,Reserved,FinOps,DevOps,USD
+2026-03-02,1076,CloudFront,us-east-1,Production,88.87,Network,Reserved,Analytics,DataTeam,USD
+2026-03-03,1156,Amazon EC2,us-east-1,Dev,30.36,Network,Spot,WebApp,DevOps,USD
+2026-03-03,1860,AWS Lambda,us-west-2,Production,30.87,Network,On-Demand,Analytics,Miguel,USD
+2026-03-03,1329,CloudFront,us-east-1,Production,29.38,Network,Spot,FinOps,Miguel,USD
+2026-03-03,1626,AWS Lambda,us-east-1,QA,90.27,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-03,1589,CloudFront,eu-central-1,Production,38.75,Network,Spot,WebApp,DataTeam,USD
+2026-03-03,1477,Amazon RDS,eu-central-1,Production,84.87,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-03,1813,Amazon RDS,us-west-2,QA,11.88,Compute,Spot,WebApp,DataTeam,USD
+2026-03-03,1961,Amazon S3,us-east-1,Dev,98.62,Storage,Spot,FinOps,DataTeam,USD
+2026-03-03,1449,CloudFront,us-west-2,Production,45.33,Network,Spot,WebApp,DataTeam,USD
+2026-03-03,1842,Amazon RDS,us-east-1,QA,37.45,Network,Reserved,FinOps,Miguel,USD
+2026-03-03,1570,Amazon S3,eu-central-1,QA,20.44,Compute,Reserved,WebApp,DevOps,USD
+2026-03-03,1936,Amazon S3,us-west-2,Dev,9.41,Compute,Reserved,Analytics,Miguel,USD
+2026-03-03,1248,Amazon RDS,us-east-1,Dev,89.49,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-03,1444,Amazon EC2,us-west-2,QA,58.15,Network,On-Demand,WebApp,DevOps,USD
+2026-03-03,1568,Amazon RDS,eu-central-1,Dev,55.14,Storage,Spot,WebApp,Miguel,USD
+2026-03-03,1302,CloudFront,eu-central-1,QA,49.65,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-03,1674,Amazon S3,eu-central-1,QA,37.4,Network,Reserved,WebApp,Miguel,USD
+2026-03-03,1137,CloudFront,us-west-2,QA,7.93,Compute,Spot,WebApp,DataTeam,USD
+2026-03-03,1301,AWS Lambda,us-west-2,Dev,7.32,Compute,Spot,WebApp,Miguel,USD
+2026-03-03,1032,Amazon RDS,us-west-2,Production,93.73,Compute,Spot,Analytics,DataTeam,USD
+2026-03-04,1363,Amazon EC2,eu-central-1,QA,30.59,Network,On-Demand,FinOps,DataTeam,USD
+2026-03-04,1174,CloudFront,us-east-1,Dev,99.12,Storage,Reserved,WebApp,DevOps,USD
+2026-03-04,1376,Amazon S3,eu-central-1,Dev,63.43,Storage,On-Demand,FinOps,DevOps,USD
+2026-03-04,1058,CloudFront,us-west-2,Dev,67.06,Network,Spot,WebApp,DataTeam,USD
+2026-03-04,1737,Amazon EC2,eu-central-1,Production,74.12,Compute,Spot,Analytics,DevOps,USD
+2026-03-04,1316,AWS Lambda,us-east-1,Dev,43.5,Storage,Spot,Analytics,DataTeam,USD
+2026-03-04,1702,CloudFront,eu-central-1,Dev,24.71,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-04,1317,Amazon EC2,eu-central-1,QA,74.35,Network,Reserved,WebApp,Miguel,USD
+2026-03-04,1949,AWS Lambda,us-west-2,Production,91.71,Compute,Reserved,Analytics,Miguel,USD
+2026-03-04,1295,Amazon RDS,eu-central-1,Production,17.85,Storage,Spot,FinOps,Miguel,USD
+2026-03-04,1618,AWS Lambda,eu-central-1,QA,32.54,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-04,1799,Amazon RDS,us-west-2,QA,37.85,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-04,1646,AWS Lambda,us-east-1,Production,63.03,Network,Reserved,FinOps,DataTeam,USD
+2026-03-04,1917,Amazon RDS,us-east-1,QA,10.13,Network,Reserved,FinOps,DevOps,USD
+2026-03-04,1501,CloudFront,eu-central-1,Production,42.44,Network,On-Demand,Analytics,Miguel,USD
+2026-03-04,1922,Amazon EC2,eu-central-1,Production,46.95,Storage,Spot,WebApp,Miguel,USD
+2026-03-04,1971,Amazon EC2,eu-central-1,Dev,89.07,Storage,On-Demand,WebApp,DevOps,USD
+2026-03-04,1126,CloudFront,us-east-1,Production,34.41,Compute,Spot,WebApp,DevOps,USD
+2026-03-04,1695,AWS Lambda,us-west-2,Production,56.06,Compute,Spot,FinOps,Miguel,USD
+2026-03-04,1412,Amazon EC2,us-west-2,Production,49.92,Compute,Reserved,FinOps,DevOps,USD
+2026-03-05,1350,Amazon RDS,us-west-2,Production,94.34,Network,On-Demand,Analytics,DevOps,USD
+2026-03-05,1622,CloudFront,us-east-1,QA,74.18,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-05,1438,Amazon EC2,eu-central-1,Production,38.38,Compute,Reserved,WebApp,DevOps,USD
+2026-03-05,1693,Amazon S3,us-east-1,Dev,20.57,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-05,1310,Amazon S3,eu-central-1,Dev,37.84,Network,Spot,Analytics,DevOps,USD
+2026-03-05,1869,AWS Lambda,eu-central-1,QA,88.59,Network,Reserved,WebApp,DataTeam,USD
+2026-03-05,1732,Amazon RDS,eu-central-1,Dev,17.21,Network,On-Demand,Analytics,DataTeam,USD
+2026-03-05,1409,CloudFront,eu-central-1,QA,27.23,Storage,Spot,FinOps,DataTeam,USD
+2026-03-05,1762,AWS Lambda,us-west-2,Production,91.91,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-05,1361,Amazon EC2,us-east-1,Production,81.45,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-05,1007,AWS Lambda,us-west-2,Dev,79.48,Network,On-Demand,Analytics,Miguel,USD
+2026-03-05,1925,Amazon EC2,us-west-2,Dev,31.03,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-05,1898,Amazon S3,eu-central-1,Production,91.3,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-05,1220,AWS Lambda,us-east-1,QA,14.69,Network,On-Demand,Analytics,DevOps,USD
+2026-03-05,1641,AWS Lambda,us-east-1,QA,47.58,Compute,Spot,Analytics,DevOps,USD
+2026-03-05,1901,Amazon S3,eu-central-1,QA,48.35,Compute,Reserved,Analytics,DevOps,USD
+2026-03-05,1415,AWS Lambda,us-west-2,Dev,48.17,Network,Reserved,Analytics,Miguel,USD
+2026-03-05,1060,Amazon RDS,us-east-1,Production,81.58,Storage,Spot,Analytics,Miguel,USD
+2026-03-05,1472,CloudFront,eu-central-1,Dev,14.4,Storage,Spot,Analytics,DataTeam,USD
+2026-03-05,1011,AWS Lambda,eu-central-1,Dev,48.41,Storage,Reserved,Analytics,DevOps,USD
+2026-03-06,1507,AWS Lambda,us-east-1,QA,81.55,Network,Spot,FinOps,DevOps,USD
+2026-03-06,1594,Amazon EC2,us-east-1,Dev,96.23,Network,On-Demand,FinOps,DevOps,USD
+2026-03-06,1132,Amazon RDS,us-east-1,QA,57.42,Network,Reserved,WebApp,DevOps,USD
+2026-03-06,1996,CloudFront,us-east-1,QA,50.71,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-06,1074,Amazon S3,us-west-2,Dev,74.61,Compute,Spot,WebApp,Miguel,USD
+2026-03-06,1865,Amazon S3,eu-central-1,QA,40.13,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-06,1955,Amazon EC2,us-east-1,QA,15.02,Network,On-Demand,WebApp,DevOps,USD
+2026-03-06,1335,Amazon S3,us-west-2,QA,40.4,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-06,1343,AWS Lambda,us-east-1,Production,12.89,Compute,Reserved,WebApp,Miguel,USD
+2026-03-06,1746,Amazon RDS,us-west-2,QA,77.48,Compute,Spot,WebApp,DataTeam,USD
+2026-03-06,1312,AWS Lambda,us-west-2,QA,64.53,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-06,1041,AWS Lambda,us-east-1,QA,43.78,Network,Reserved,WebApp,Miguel,USD
+2026-03-06,1402,Amazon RDS,us-west-2,Dev,80.42,Network,On-Demand,FinOps,DevOps,USD
+2026-03-06,1323,Amazon EC2,us-east-1,Production,5.02,Compute,Spot,Analytics,Miguel,USD
+2026-03-06,1611,CloudFront,eu-central-1,QA,78.95,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-06,1179,CloudFront,us-west-2,Dev,34.5,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-06,1137,AWS Lambda,us-west-2,Dev,71.84,Network,Reserved,Analytics,DataTeam,USD
+2026-03-06,1900,Amazon EC2,us-west-2,QA,33.85,Network,Spot,WebApp,Miguel,USD
+2026-03-06,1818,AWS Lambda,us-west-2,Dev,23.69,Network,Spot,WebApp,DataTeam,USD
+2026-03-06,1931,Amazon S3,us-west-2,Production,69.4,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-07,1094,Amazon EC2,us-east-1,Dev,94.09,Storage,Spot,Analytics,DevOps,USD
+2026-03-07,1317,AWS Lambda,eu-central-1,Dev,23.51,Storage,Reserved,WebApp,DevOps,USD
+2026-03-07,1952,Amazon RDS,us-west-2,Dev,27.42,Network,Spot,FinOps,Miguel,USD
+2026-03-07,1234,Amazon EC2,eu-central-1,Dev,99.6,Compute,Spot,FinOps,Miguel,USD
+2026-03-07,1121,CloudFront,us-west-2,Production,87.97,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-07,1752,Amazon S3,us-west-2,Dev,32.51,Network,Reserved,WebApp,DevOps,USD
+2026-03-07,1017,Amazon EC2,us-east-1,Dev,43.59,Storage,Reserved,FinOps,Miguel,USD
+2026-03-07,1033,Amazon EC2,eu-central-1,QA,82.03,Network,On-Demand,FinOps,Miguel,USD
+2026-03-07,1281,Amazon RDS,eu-central-1,QA,97.97,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-07,1949,CloudFront,us-west-2,Production,28.67,Network,On-Demand,Analytics,DevOps,USD
+2026-03-07,1233,Amazon EC2,eu-central-1,Production,77.34,Network,Reserved,WebApp,Miguel,USD
+2026-03-07,1764,Amazon EC2,us-east-1,QA,47.06,Compute,Spot,Analytics,Miguel,USD
+2026-03-07,1085,Amazon RDS,us-west-2,Production,72.47,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-07,1898,CloudFront,us-east-1,Dev,61.13,Network,Spot,WebApp,DataTeam,USD
+2026-03-07,1889,Amazon S3,us-east-1,QA,14.82,Compute,Spot,FinOps,Miguel,USD
+2026-03-07,1569,AWS Lambda,eu-central-1,Production,6.33,Network,On-Demand,FinOps,DevOps,USD
+2026-03-07,1181,Amazon RDS,us-west-2,QA,52.0,Compute,Reserved,FinOps,Miguel,USD
+2026-03-07,1687,Amazon RDS,us-west-2,Production,8.2,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-07,1940,Amazon S3,us-east-1,Production,87.99,Network,Reserved,Analytics,DevOps,USD
+2026-03-07,1636,AWS Lambda,us-east-1,QA,68.87,Network,On-Demand,Analytics,DataTeam,USD
+2026-03-08,1091,Amazon RDS,us-east-1,Dev,78.28,Storage,Spot,FinOps,DataTeam,USD
+2026-03-08,1177,Amazon S3,us-east-1,Dev,79.89,Compute,Reserved,Analytics,DevOps,USD
+2026-03-08,1971,CloudFront,us-east-1,QA,21.97,Network,Spot,WebApp,DevOps,USD
+2026-03-08,1378,Amazon S3,us-west-2,QA,7.77,Storage,Spot,Analytics,DevOps,USD
+2026-03-08,1310,AWS Lambda,us-east-1,Production,21.33,Network,Spot,WebApp,Miguel,USD
+2026-03-08,1365,Amazon EC2,us-east-1,QA,25.04,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-08,1397,CloudFront,us-east-1,Dev,58.8,Compute,Spot,WebApp,Miguel,USD
+2026-03-08,1340,Amazon S3,us-east-1,QA,83.05,Compute,Spot,WebApp,DataTeam,USD
+2026-03-08,1416,CloudFront,eu-central-1,Production,74.47,Network,Reserved,FinOps,DataTeam,USD
+2026-03-08,1115,AWS Lambda,us-east-1,QA,57.1,Storage,Spot,WebApp,Miguel,USD
+2026-03-08,1156,CloudFront,us-west-2,Production,20.06,Compute,Reserved,FinOps,Miguel,USD
+2026-03-08,1481,Amazon RDS,us-west-2,Dev,80.04,Storage,Spot,Analytics,DevOps,USD
+2026-03-08,1220,Amazon EC2,eu-central-1,QA,62.73,Storage,Spot,Analytics,DataTeam,USD
+2026-03-08,1553,Amazon S3,eu-central-1,Production,52.52,Network,Spot,Analytics,Miguel,USD
+2026-03-08,1471,CloudFront,eu-central-1,Production,85.99,Storage,Spot,Analytics,Miguel,USD
+2026-03-08,1363,Amazon EC2,eu-central-1,QA,62.57,Storage,Spot,WebApp,DevOps,USD
+2026-03-08,1111,Amazon EC2,eu-central-1,QA,38.99,Compute,Spot,FinOps,Miguel,USD
+2026-03-08,1374,Amazon S3,us-east-1,Dev,56.15,Network,On-Demand,Analytics,DevOps,USD
+2026-03-08,1564,CloudFront,us-west-2,Production,5.15,Network,On-Demand,WebApp,DevOps,USD
+2026-03-08,1726,AWS Lambda,eu-central-1,QA,9.56,Network,On-Demand,WebApp,Miguel,USD
+2026-03-09,1653,Amazon RDS,us-west-2,Production,44.81,Storage,Spot,WebApp,Miguel,USD
+2026-03-09,1159,CloudFront,us-east-1,Dev,23.91,Network,On-Demand,FinOps,DataTeam,USD
+2026-03-09,1386,CloudFront,eu-central-1,Production,68.58,Network,Reserved,WebApp,Miguel,USD
+2026-03-09,1616,CloudFront,us-east-1,QA,22.07,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-09,1591,Amazon EC2,us-west-2,Production,90.16,Compute,Spot,WebApp,DevOps,USD
+2026-03-09,1456,CloudFront,eu-central-1,Dev,23.79,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-09,1693,Amazon EC2,eu-central-1,QA,99.58,Storage,On-Demand,WebApp,DevOps,USD
+2026-03-09,1174,AWS Lambda,eu-central-1,QA,14.08,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-09,1277,Amazon S3,us-east-1,QA,67.1,Network,On-Demand,Analytics,Miguel,USD
+2026-03-09,1520,CloudFront,eu-central-1,Dev,8.38,Compute,Spot,FinOps,Miguel,USD
+2026-03-09,1587,Amazon S3,us-east-1,Dev,49.52,Compute,Reserved,WebApp,Miguel,USD
+2026-03-09,1673,Amazon RDS,us-east-1,Dev,21.16,Compute,Spot,WebApp,DevOps,USD
+2026-03-09,1245,Amazon S3,us-east-1,Production,74.67,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-09,1336,CloudFront,us-east-1,Production,66.91,Network,Reserved,WebApp,Miguel,USD
+2026-03-09,1559,Amazon RDS,us-east-1,Dev,50.92,Network,Spot,FinOps,Miguel,USD
+2026-03-09,1843,AWS Lambda,us-west-2,Production,19.89,Storage,Spot,Analytics,DataTeam,USD
+2026-03-09,1986,Amazon EC2,us-east-1,Production,64.08,Compute,Spot,WebApp,Miguel,USD
+2026-03-09,1944,AWS Lambda,eu-central-1,Dev,59.81,Storage,Spot,FinOps,DataTeam,USD
+2026-03-09,1564,Amazon RDS,us-west-2,Dev,60.66,Compute,Reserved,Analytics,DevOps,USD
+2026-03-09,1549,Amazon RDS,eu-central-1,QA,85.34,Compute,Spot,FinOps,Miguel,USD
+2026-03-10,1381,AWS Lambda,us-east-1,Dev,20.87,Storage,Spot,Analytics,DevOps,USD
+2026-03-10,1026,Amazon RDS,eu-central-1,Dev,68.09,Network,On-Demand,FinOps,Miguel,USD
+2026-03-10,1874,Amazon RDS,eu-central-1,Production,12.52,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-10,1731,Amazon EC2,us-east-1,QA,21.6,Network,Reserved,Analytics,DevOps,USD
+2026-03-10,1148,Amazon S3,us-west-2,Production,36.24,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-10,1130,AWS Lambda,us-east-1,Production,49.04,Network,Spot,WebApp,DataTeam,USD
+2026-03-10,1616,Amazon EC2,us-east-1,Production,68.72,Network,Spot,Analytics,DevOps,USD
+2026-03-10,1954,CloudFront,us-east-1,Production,93.11,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-10,1386,Amazon EC2,eu-central-1,QA,52.22,Storage,Spot,Analytics,DataTeam,USD
+2026-03-10,1216,Amazon RDS,us-west-2,Production,12.55,Compute,Reserved,FinOps,DevOps,USD
+2026-03-10,1948,CloudFront,us-east-1,QA,15.08,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-10,1028,AWS Lambda,eu-central-1,QA,20.3,Compute,Spot,FinOps,DevOps,USD
+2026-03-10,1657,AWS Lambda,us-west-2,Dev,37.82,Storage,Spot,WebApp,DataTeam,USD
+2026-03-10,1277,Amazon S3,us-east-1,Dev,56.54,Compute,Reserved,WebApp,DevOps,USD
+2026-03-10,1850,AWS Lambda,us-west-2,Production,62.62,Network,Reserved,WebApp,Miguel,USD
+2026-03-10,1131,CloudFront,us-east-1,Dev,55.94,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-10,1249,Amazon RDS,us-east-1,Production,77.96,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-10,1252,Amazon EC2,eu-central-1,QA,19.8,Compute,Reserved,WebApp,DevOps,USD
+2026-03-10,1186,AWS Lambda,us-east-1,Production,57.65,Storage,Spot,Analytics,Miguel,USD
+2026-03-10,1045,Amazon S3,eu-central-1,QA,17.91,Network,Reserved,WebApp,DevOps,USD
+2026-03-11,1530,Amazon S3,us-east-1,Production,18.66,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-11,1949,Amazon EC2,us-west-2,Production,34.99,Storage,Spot,FinOps,DevOps,USD
+2026-03-11,1352,Amazon S3,us-west-2,Dev,30.06,Network,Reserved,Analytics,Miguel,USD
+2026-03-11,1578,Amazon S3,eu-central-1,Production,48.65,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-11,1480,Amazon EC2,us-west-2,Dev,91.07,Network,Reserved,Analytics,DevOps,USD
+2026-03-11,1737,CloudFront,us-west-2,QA,84.13,Network,Reserved,WebApp,DevOps,USD
+2026-03-11,1043,Amazon EC2,us-east-1,Dev,90.56,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-11,1736,Amazon RDS,us-west-2,Production,43.36,Storage,Spot,FinOps,DevOps,USD
+2026-03-11,1767,Amazon S3,us-east-1,Production,50.66,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-11,1622,CloudFront,eu-central-1,Production,31.8,Network,Reserved,FinOps,DevOps,USD
+2026-03-11,1831,Amazon RDS,us-east-1,Production,50.67,Compute,Spot,WebApp,DataTeam,USD
+2026-03-11,1996,Amazon RDS,us-west-2,Dev,21.49,Network,Reserved,Analytics,DevOps,USD
+2026-03-11,1613,Amazon RDS,eu-central-1,Dev,44.68,Network,Spot,Analytics,Miguel,USD
+2026-03-11,1158,Amazon RDS,us-east-1,QA,61.09,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-11,1557,CloudFront,us-east-1,Dev,91.22,Network,Spot,WebApp,DataTeam,USD
+2026-03-11,1703,Amazon RDS,eu-central-1,QA,17.01,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-11,1446,Amazon RDS,us-west-2,QA,86.5,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-11,1814,AWS Lambda,eu-central-1,Dev,16.12,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-11,1527,CloudFront,us-east-1,QA,64.62,Storage,Spot,Analytics,Miguel,USD
+2026-03-11,1092,Amazon S3,us-east-1,Production,51.8,Storage,Spot,Analytics,DataTeam,USD
+2026-03-12,1013,Amazon RDS,us-east-1,Dev,8.85,Compute,Spot,WebApp,DevOps,USD
+2026-03-12,1288,Amazon RDS,us-east-1,Dev,77.15,Network,Spot,WebApp,Miguel,USD
+2026-03-12,1847,Amazon S3,eu-central-1,Dev,55.75,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-12,1382,Amazon S3,us-east-1,Production,34.33,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-12,1168,Amazon EC2,us-east-1,QA,58.18,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-12,1530,CloudFront,us-west-2,QA,99.26,Compute,Reserved,FinOps,Miguel,USD
+2026-03-12,1182,CloudFront,us-east-1,Dev,92.43,Storage,Reserved,WebApp,Miguel,USD
+2026-03-12,1446,AWS Lambda,us-west-2,Dev,48.15,Network,Reserved,Analytics,DataTeam,USD
+2026-03-12,1557,Amazon RDS,eu-central-1,QA,84.1,Network,On-Demand,FinOps,DevOps,USD
+2026-03-12,1930,Amazon S3,eu-central-1,Dev,26.3,Storage,On-Demand,WebApp,DevOps,USD
+2026-03-12,1570,Amazon S3,eu-central-1,Production,80.38,Network,Spot,WebApp,Miguel,USD
+2026-03-12,1620,Amazon EC2,us-west-2,Dev,8.25,Storage,Spot,Analytics,DataTeam,USD
+2026-03-12,1216,Amazon RDS,eu-central-1,QA,84.02,Network,Spot,FinOps,DevOps,USD
+2026-03-12,1199,Amazon EC2,us-west-2,Dev,12.13,Network,On-Demand,Analytics,Miguel,USD
+2026-03-12,1899,AWS Lambda,us-west-2,Production,55.49,Storage,Reserved,FinOps,Miguel,USD
+2026-03-12,1561,Amazon S3,us-west-2,Production,78.81,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-12,1728,Amazon EC2,us-east-1,Dev,74.82,Compute,Spot,WebApp,Miguel,USD
+2026-03-12,1271,Amazon EC2,us-east-1,QA,73.54,Storage,Spot,Analytics,DataTeam,USD
+2026-03-12,1790,Amazon EC2,us-west-2,Production,42.4,Network,Reserved,Analytics,DevOps,USD
+2026-03-12,1253,Amazon S3,us-east-1,Dev,34.77,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-13,1438,CloudFront,eu-central-1,QA,83.41,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-13,1342,CloudFront,us-west-2,Production,78.48,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-13,1447,CloudFront,us-west-2,QA,86.05,Network,Spot,WebApp,Miguel,USD
+2026-03-13,1249,AWS Lambda,us-east-1,Dev,78.64,Compute,On-Demand,FinOps,DevOps,USD
+2026-03-13,1342,AWS Lambda,us-east-1,Dev,62.73,Storage,Reserved,FinOps,Miguel,USD
+2026-03-13,1491,Amazon EC2,us-west-2,Dev,66.16,Compute,Spot,FinOps,Miguel,USD
+2026-03-13,1010,Amazon S3,eu-central-1,Production,40.72,Storage,On-Demand,FinOps,DevOps,USD
+2026-03-13,1924,Amazon EC2,eu-central-1,Dev,58.08,Network,On-Demand,FinOps,Miguel,USD
+2026-03-13,1167,Amazon EC2,us-east-1,QA,9.5,Storage,Spot,FinOps,Miguel,USD
+2026-03-13,1718,Amazon EC2,us-west-2,QA,37.35,Compute,On-Demand,FinOps,DevOps,USD
+2026-03-13,1726,CloudFront,us-east-1,QA,93.11,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-13,1268,Amazon EC2,us-west-2,Production,78.2,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-13,1406,AWS Lambda,us-west-2,Production,80.51,Network,Spot,Analytics,DevOps,USD
+2026-03-13,1737,Amazon EC2,us-west-2,QA,99.71,Compute,Spot,Analytics,DataTeam,USD
+2026-03-13,1757,Amazon S3,eu-central-1,Dev,7.07,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-13,1661,Amazon EC2,us-east-1,QA,98.54,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-13,1943,Amazon S3,us-east-1,Production,51.53,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-13,1815,Amazon S3,eu-central-1,Production,8.87,Storage,Spot,WebApp,Miguel,USD
+2026-03-13,1913,CloudFront,us-west-2,Production,25.91,Network,Spot,WebApp,DevOps,USD
+2026-03-13,1983,CloudFront,eu-central-1,Production,83.34,Storage,On-Demand,WebApp,DevOps,USD
+2026-03-14,1446,Amazon EC2,us-west-2,Dev,76.41,Compute,Spot,Analytics,DevOps,USD
+2026-03-14,1431,Amazon S3,eu-central-1,Production,73.65,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-14,1369,CloudFront,eu-central-1,Dev,46.91,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-14,1443,CloudFront,eu-central-1,Dev,40.99,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-14,1984,CloudFront,us-east-1,Production,82.36,Storage,Reserved,Analytics,DevOps,USD
+2026-03-14,1166,AWS Lambda,us-west-2,Production,17.86,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-14,1632,CloudFront,us-east-1,Production,71.91,Network,Spot,WebApp,Miguel,USD
+2026-03-14,1815,AWS Lambda,us-west-2,Production,66.17,Network,Spot,Analytics,Miguel,USD
+2026-03-14,1678,Amazon EC2,us-east-1,Dev,89.84,Network,Reserved,WebApp,DataTeam,USD
+2026-03-14,1720,Amazon RDS,us-east-1,Dev,70.51,Storage,Reserved,Analytics,Miguel,USD
+2026-03-14,1153,AWS Lambda,eu-central-1,QA,80.36,Network,Reserved,Analytics,DataTeam,USD
+2026-03-14,1580,Amazon S3,us-west-2,QA,21.18,Storage,Spot,WebApp,DataTeam,USD
+2026-03-14,1228,Amazon EC2,us-east-1,QA,56.7,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-14,1352,Amazon RDS,us-east-1,Production,67.33,Network,On-Demand,FinOps,Miguel,USD
+2026-03-14,1804,Amazon RDS,us-west-2,Dev,15.28,Storage,Spot,Analytics,Miguel,USD
+2026-03-14,1866,Amazon RDS,us-east-1,QA,86.13,Network,On-Demand,FinOps,Miguel,USD
+2026-03-14,1646,Amazon RDS,us-west-2,Dev,7.88,Storage,Spot,FinOps,Miguel,USD
+2026-03-14,1002,Amazon RDS,us-east-1,QA,61.08,Compute,Spot,FinOps,Miguel,USD
+2026-03-14,1117,Amazon EC2,us-west-2,Dev,68.83,Compute,Reserved,WebApp,Miguel,USD
+2026-03-14,1936,CloudFront,us-east-1,Dev,82.35,Network,Spot,Analytics,Miguel,USD
+2026-03-15,1247,AWS Lambda,us-west-2,Production,53.03,Storage,Spot,WebApp,DevOps,USD
+2026-03-15,1397,Amazon RDS,us-west-2,Production,43.41,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-15,1738,AWS Lambda,us-west-2,Dev,57.71,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-15,1623,AWS Lambda,us-west-2,Production,91.53,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-15,1195,AWS Lambda,us-east-1,Dev,30.31,Storage,Spot,WebApp,DevOps,USD
+2026-03-15,1010,Amazon RDS,us-west-2,Production,75.0,Storage,Spot,WebApp,DevOps,USD
+2026-03-15,1937,AWS Lambda,eu-central-1,QA,64.39,Network,On-Demand,Analytics,Miguel,USD
+2026-03-15,1558,AWS Lambda,us-west-2,Dev,27.51,Network,On-Demand,Analytics,Miguel,USD
+2026-03-15,1525,CloudFront,us-east-1,Production,9.02,Network,Spot,WebApp,Miguel,USD
+2026-03-15,1089,AWS Lambda,us-west-2,Production,99.0,Storage,Spot,FinOps,DevOps,USD
+2026-03-15,1258,AWS Lambda,us-west-2,Production,21.97,Compute,Spot,WebApp,Miguel,USD
+2026-03-15,1319,CloudFront,us-west-2,QA,25.86,Compute,Spot,WebApp,DevOps,USD
+2026-03-15,1567,CloudFront,us-east-1,Dev,7.25,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-15,1047,Amazon EC2,us-west-2,Dev,74.57,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-15,1396,CloudFront,us-west-2,Production,56.14,Compute,Spot,Analytics,Miguel,USD
+2026-03-15,1508,CloudFront,us-west-2,QA,56.41,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-15,1986,AWS Lambda,us-east-1,QA,18.2,Storage,Reserved,Analytics,Miguel,USD
+2026-03-15,1579,AWS Lambda,us-east-1,QA,72.71,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-15,1951,AWS Lambda,eu-central-1,Dev,95.02,Compute,Spot,Analytics,DevOps,USD
+2026-03-15,1004,Amazon S3,us-west-2,Production,22.32,Compute,Reserved,WebApp,DevOps,USD
+2026-03-16,1653,Amazon S3,us-west-2,Production,71.09,Compute,Spot,WebApp,Miguel,USD
+2026-03-16,1740,Amazon EC2,us-east-1,Dev,65.1,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-16,1643,AWS Lambda,us-east-1,Production,85.13,Network,Reserved,WebApp,DevOps,USD
+2026-03-16,1991,Amazon RDS,us-east-1,Dev,66.86,Network,Spot,Analytics,DevOps,USD
+2026-03-16,1857,Amazon EC2,us-east-1,QA,53.76,Network,Reserved,Analytics,Miguel,USD
+2026-03-16,1922,Amazon S3,eu-central-1,Production,56.93,Compute,Spot,Analytics,DevOps,USD
+2026-03-16,1909,Amazon S3,us-east-1,QA,60.23,Network,Reserved,WebApp,Miguel,USD
+2026-03-16,1519,Amazon RDS,eu-central-1,QA,58.59,Network,Reserved,WebApp,DataTeam,USD
+2026-03-16,1867,CloudFront,eu-central-1,Dev,21.93,Compute,Spot,WebApp,Miguel,USD
+2026-03-16,1070,Amazon S3,eu-central-1,Production,68.16,Storage,Spot,FinOps,Miguel,USD
+2026-03-16,1862,CloudFront,eu-central-1,Dev,74.06,Storage,Spot,FinOps,DataTeam,USD
+2026-03-16,1949,AWS Lambda,us-east-1,Production,7.14,Storage,Spot,WebApp,DevOps,USD
+2026-03-16,1702,Amazon RDS,us-east-1,Production,20.88,Storage,Reserved,Analytics,Miguel,USD
+2026-03-16,1867,CloudFront,us-east-1,Production,53.3,Compute,Reserved,FinOps,Miguel,USD
+2026-03-16,1646,Amazon EC2,us-east-1,Dev,65.93,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-16,1838,CloudFront,us-east-1,Production,63.53,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-16,1315,CloudFront,eu-central-1,Dev,85.2,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-16,1998,Amazon RDS,eu-central-1,Dev,67.86,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-16,1851,CloudFront,us-west-2,QA,72.95,Storage,Reserved,Analytics,DevOps,USD
+2026-03-16,1012,Amazon RDS,eu-central-1,Dev,58.45,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-17,1775,Amazon RDS,us-west-2,QA,46.61,Compute,Reserved,FinOps,DevOps,USD
+2026-03-17,1730,CloudFront,us-east-1,Dev,37.46,Storage,Reserved,FinOps,Miguel,USD
+2026-03-17,1323,Amazon RDS,us-west-2,Dev,95.69,Network,On-Demand,FinOps,Miguel,USD
+2026-03-17,1534,CloudFront,us-west-2,Dev,70.54,Storage,On-Demand,WebApp,DataTeam,USD
+2026-03-17,1719,AWS Lambda,us-east-1,Production,88.62,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-17,1151,AWS Lambda,us-west-2,Dev,81.41,Network,Reserved,WebApp,DevOps,USD
+2026-03-17,1749,Amazon EC2,eu-central-1,Dev,39.52,Network,Spot,FinOps,Miguel,USD
+2026-03-17,1765,Amazon RDS,us-east-1,Dev,52.06,Storage,Spot,WebApp,DataTeam,USD
+2026-03-17,1679,CloudFront,us-east-1,Production,74.92,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-17,1576,Amazon S3,us-west-2,Production,20.23,Network,Spot,FinOps,DevOps,USD
+2026-03-17,1894,Amazon S3,us-east-1,Dev,25.78,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-17,1489,Amazon RDS,us-east-1,Production,94.22,Network,Reserved,FinOps,DataTeam,USD
+2026-03-17,1588,Amazon RDS,us-west-2,Dev,38.96,Storage,Spot,Analytics,DataTeam,USD
+2026-03-17,1492,Amazon RDS,us-east-1,Production,26.44,Compute,Spot,WebApp,Miguel,USD
+2026-03-17,1998,Amazon EC2,eu-central-1,Dev,22.74,Network,Spot,Analytics,DataTeam,USD
+2026-03-17,1190,Amazon RDS,us-east-1,Production,44.56,Storage,Reserved,WebApp,DevOps,USD
+2026-03-17,1962,Amazon EC2,eu-central-1,QA,34.45,Storage,Reserved,FinOps,Miguel,USD
+2026-03-17,1425,Amazon EC2,us-west-2,QA,71.22,Compute,Reserved,WebApp,Miguel,USD
+2026-03-17,1660,Amazon RDS,us-west-2,QA,72.44,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-17,1679,Amazon RDS,us-east-1,Production,34.58,Compute,Spot,WebApp,DataTeam,USD
+2026-03-18,1990,Amazon EC2,us-west-2,QA,72.74,Network,On-Demand,Analytics,DataTeam,USD
+2026-03-18,1185,AWS Lambda,us-west-2,Dev,43.51,Network,On-Demand,WebApp,Miguel,USD
+2026-03-18,1529,CloudFront,us-west-2,QA,11.51,Network,Reserved,Analytics,Miguel,USD
+2026-03-18,1577,Amazon S3,us-west-2,QA,42.7,Compute,Spot,Analytics,DataTeam,USD
+2026-03-18,1660,Amazon S3,us-west-2,QA,27.98,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-18,1998,Amazon S3,us-east-1,Dev,78.52,Storage,Spot,Analytics,DevOps,USD
+2026-03-18,1007,Amazon S3,us-east-1,Dev,28.4,Network,Spot,WebApp,Miguel,USD
+2026-03-18,1848,Amazon S3,us-east-1,QA,32.6,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-18,1687,AWS Lambda,us-east-1,Dev,41.77,Network,Spot,Analytics,DataTeam,USD
+2026-03-18,1378,Amazon EC2,us-east-1,Production,85.13,Storage,Spot,Analytics,DevOps,USD
+2026-03-18,1598,CloudFront,us-west-2,Production,81.08,Storage,On-Demand,Analytics,DevOps,USD
+2026-03-18,1930,Amazon S3,us-east-1,QA,13.88,Network,Reserved,Analytics,Miguel,USD
+2026-03-18,1368,AWS Lambda,us-east-1,Production,35.21,Compute,Spot,FinOps,DataTeam,USD
+2026-03-18,1974,Amazon S3,us-east-1,QA,40.47,Compute,Spot,Analytics,DevOps,USD
+2026-03-18,1517,Amazon S3,us-east-1,Dev,29.23,Network,Spot,FinOps,DataTeam,USD
+2026-03-18,1205,Amazon EC2,us-west-2,Dev,44.14,Compute,Reserved,FinOps,DevOps,USD
+2026-03-18,1453,AWS Lambda,us-east-1,Production,41.86,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-18,1413,Amazon RDS,eu-central-1,Production,50.27,Network,Spot,FinOps,Miguel,USD
+2026-03-18,1504,Amazon RDS,us-west-2,Dev,96.42,Storage,Reserved,Analytics,DevOps,USD
+2026-03-18,1384,AWS Lambda,us-west-2,Dev,15.39,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-19,1409,CloudFront,eu-central-1,Production,26.94,Network,Spot,FinOps,DevOps,USD
+2026-03-19,1390,Amazon EC2,us-east-1,Production,91.6,Storage,Reserved,Analytics,Miguel,USD
+2026-03-19,1663,Amazon S3,us-east-1,QA,22.86,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-19,1177,CloudFront,us-east-1,QA,25.43,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-19,1284,CloudFront,us-west-2,QA,79.01,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-19,1773,Amazon S3,eu-central-1,Production,84.99,Storage,On-Demand,Analytics,DevOps,USD
+2026-03-19,1591,Amazon S3,eu-central-1,Production,6.74,Network,Spot,Analytics,DevOps,USD
+2026-03-19,1203,Amazon RDS,eu-central-1,Dev,84.02,Network,Reserved,Analytics,DataTeam,USD
+2026-03-19,1872,CloudFront,eu-central-1,Dev,66.51,Storage,Spot,Analytics,DevOps,USD
+2026-03-19,1869,Amazon RDS,eu-central-1,QA,12.57,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-19,1058,Amazon EC2,eu-central-1,Dev,97.23,Compute,Spot,Analytics,DevOps,USD
+2026-03-19,1519,AWS Lambda,eu-central-1,QA,76.77,Network,Spot,Analytics,Miguel,USD
+2026-03-19,1289,AWS Lambda,us-east-1,Dev,45.03,Network,Spot,WebApp,DataTeam,USD
+2026-03-19,1756,Amazon RDS,eu-central-1,Dev,91.07,Compute,Reserved,FinOps,Miguel,USD
+2026-03-19,1049,Amazon RDS,us-east-1,Dev,25.06,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-19,1300,Amazon RDS,us-west-2,Dev,51.37,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-19,1675,AWS Lambda,us-east-1,QA,78.74,Storage,Reserved,FinOps,Miguel,USD
+2026-03-19,1994,Amazon S3,eu-central-1,Production,64.4,Storage,Spot,FinOps,DataTeam,USD
+2026-03-19,1583,Amazon S3,eu-central-1,QA,88.39,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-19,1873,Amazon RDS,eu-central-1,Dev,76.37,Storage,Reserved,WebApp,DevOps,USD
+2026-03-20,1115,CloudFront,eu-central-1,QA,59.61,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-20,1704,Amazon RDS,us-east-1,QA,92.06,Storage,On-Demand,FinOps,DevOps,USD
+2026-03-20,1085,Amazon EC2,eu-central-1,Production,99.2,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-20,1080,CloudFront,us-east-1,Production,61.15,Storage,Spot,FinOps,DataTeam,USD
+2026-03-20,1756,Amazon S3,eu-central-1,QA,86.99,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-20,1630,CloudFront,us-west-2,Dev,85.66,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-20,1036,Amazon EC2,us-west-2,Dev,23.76,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-20,1824,Amazon S3,eu-central-1,QA,24.94,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-20,1953,Amazon RDS,eu-central-1,Dev,74.77,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-20,1943,CloudFront,eu-central-1,Dev,89.67,Network,Spot,WebApp,Miguel,USD
+2026-03-20,1333,Amazon RDS,us-west-2,Production,73.3,Compute,Reserved,FinOps,Miguel,USD
+2026-03-20,1539,Amazon S3,us-east-1,Dev,75.56,Compute,Spot,Analytics,DevOps,USD
+2026-03-20,1244,Amazon RDS,us-west-2,Dev,37.64,Network,Reserved,FinOps,DataTeam,USD
+2026-03-20,1655,Amazon RDS,us-west-2,Production,91.28,Storage,Spot,Analytics,Miguel,USD
+2026-03-20,1993,Amazon S3,us-west-2,QA,95.04,Network,Spot,Analytics,Miguel,USD
+2026-03-20,1112,CloudFront,us-east-1,Dev,65.51,Network,Spot,Analytics,DevOps,USD
+2026-03-20,1552,Amazon EC2,eu-central-1,Dev,14.79,Storage,Spot,WebApp,DevOps,USD
+2026-03-20,1029,Amazon S3,us-east-1,Dev,12.86,Compute,Reserved,FinOps,Miguel,USD
+2026-03-20,1268,Amazon RDS,eu-central-1,Dev,17.81,Storage,Reserved,Analytics,Miguel,USD
+2026-03-20,1178,Amazon S3,eu-central-1,QA,28.87,Network,Reserved,Analytics,Miguel,USD
+2026-03-21,1296,CloudFront,eu-central-1,Dev,79.73,Network,Reserved,Analytics,DataTeam,USD
+2026-03-21,1923,Amazon RDS,us-east-1,Dev,61.97,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-21,1074,Amazon S3,us-west-2,Production,84.0,Network,Spot,FinOps,Miguel,USD
+2026-03-21,1353,Amazon RDS,eu-central-1,QA,83.87,Network,Spot,WebApp,DevOps,USD
+2026-03-21,1791,Amazon RDS,eu-central-1,QA,91.43,Network,Reserved,WebApp,DevOps,USD
+2026-03-21,1418,Amazon EC2,us-west-2,Dev,49.76,Compute,Reserved,FinOps,Miguel,USD
+2026-03-21,1817,Amazon EC2,us-east-1,Dev,28.77,Network,Spot,Analytics,Miguel,USD
+2026-03-21,1634,AWS Lambda,eu-central-1,Production,35.12,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-21,1021,AWS Lambda,us-east-1,QA,36.6,Network,Spot,WebApp,DataTeam,USD
+2026-03-21,1020,CloudFront,us-west-2,QA,62.39,Network,Spot,WebApp,DataTeam,USD
+2026-03-21,1510,AWS Lambda,us-east-1,Dev,89.82,Network,Spot,Analytics,Miguel,USD
+2026-03-21,1752,CloudFront,eu-central-1,QA,90.04,Compute,Reserved,WebApp,DevOps,USD
+2026-03-21,1608,CloudFront,us-west-2,Dev,14.47,Compute,On-Demand,FinOps,DevOps,USD
+2026-03-21,1862,Amazon S3,eu-central-1,Production,16.08,Compute,Spot,WebApp,DevOps,USD
+2026-03-21,1632,Amazon RDS,us-east-1,Production,90.86,Compute,Reserved,Analytics,Miguel,USD
+2026-03-21,1978,Amazon S3,us-east-1,Dev,29.53,Network,On-Demand,Analytics,DevOps,USD
+2026-03-21,1652,CloudFront,us-west-2,Dev,75.58,Network,Spot,WebApp,DevOps,USD
+2026-03-21,1164,CloudFront,us-west-2,QA,13.24,Storage,Spot,WebApp,DevOps,USD
+2026-03-21,1673,Amazon RDS,eu-central-1,Production,10.4,Compute,Reserved,Analytics,Miguel,USD
+2026-03-21,1974,Amazon RDS,eu-central-1,Production,8.05,Storage,Reserved,Analytics,Miguel,USD
+2026-03-22,1275,Amazon S3,eu-central-1,QA,26.57,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-22,1096,Amazon RDS,eu-central-1,QA,30.22,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-22,1534,Amazon RDS,us-west-2,Dev,43.76,Storage,Reserved,Analytics,DevOps,USD
+2026-03-22,1022,Amazon RDS,us-east-1,Production,35.36,Compute,Reserved,FinOps,Miguel,USD
+2026-03-22,1221,AWS Lambda,eu-central-1,Production,51.75,Storage,Reserved,WebApp,Miguel,USD
+2026-03-22,1767,Amazon S3,us-west-2,Production,13.95,Network,Reserved,FinOps,DevOps,USD
+2026-03-22,1382,AWS Lambda,eu-central-1,Dev,18.82,Storage,Reserved,Analytics,Miguel,USD
+2026-03-22,1831,Amazon RDS,eu-central-1,QA,27.07,Compute,Spot,FinOps,Miguel,USD
+2026-03-22,1045,Amazon RDS,eu-central-1,Production,8.03,Storage,Spot,FinOps,Miguel,USD
+2026-03-22,1787,CloudFront,us-west-2,QA,54.33,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-22,1805,CloudFront,us-east-1,QA,27.02,Compute,On-Demand,FinOps,DevOps,USD
+2026-03-22,1988,Amazon RDS,eu-central-1,QA,50.06,Storage,Spot,WebApp,Miguel,USD
+2026-03-22,1078,Amazon RDS,us-east-1,QA,52.32,Storage,On-Demand,Analytics,DevOps,USD
+2026-03-22,1456,Amazon EC2,us-east-1,QA,45.32,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-22,1586,Amazon S3,us-west-2,QA,69.54,Network,Reserved,FinOps,DevOps,USD
+2026-03-22,1802,Amazon RDS,eu-central-1,Production,88.1,Network,On-Demand,FinOps,Miguel,USD
+2026-03-22,1916,Amazon S3,us-east-1,QA,89.42,Compute,Spot,FinOps,Miguel,USD
+2026-03-22,1154,CloudFront,eu-central-1,Production,27.25,Network,Spot,WebApp,DevOps,USD
+2026-03-22,1111,Amazon S3,us-east-1,Dev,73.68,Network,Spot,FinOps,Miguel,USD
+2026-03-22,1918,Amazon RDS,us-east-1,QA,69.69,Network,Reserved,Analytics,Miguel,USD
+2026-03-23,1805,CloudFront,us-east-1,Dev,20.8,Compute,Reserved,WebApp,DevOps,USD
+2026-03-23,1130,Amazon S3,us-east-1,Dev,29.74,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-23,1368,Amazon EC2,eu-central-1,QA,23.41,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-23,1226,AWS Lambda,us-west-2,Dev,12.97,Compute,Reserved,FinOps,Miguel,USD
+2026-03-23,1390,AWS Lambda,us-west-2,Dev,53.07,Network,Spot,Analytics,Miguel,USD
+2026-03-23,1467,Amazon EC2,us-west-2,Dev,14.43,Compute,Reserved,Analytics,Miguel,USD
+2026-03-23,1791,Amazon EC2,us-east-1,QA,92.63,Compute,Reserved,WebApp,DataTeam,USD
+2026-03-23,1758,AWS Lambda,eu-central-1,Dev,69.74,Network,On-Demand,FinOps,Miguel,USD
+2026-03-23,1325,AWS Lambda,eu-central-1,Production,92.53,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-23,1986,Amazon RDS,us-west-2,Production,98.03,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-23,1627,AWS Lambda,us-east-1,QA,62.35,Storage,Reserved,Analytics,DevOps,USD
+2026-03-23,1025,Amazon EC2,us-east-1,Dev,99.19,Compute,Reserved,WebApp,DataTeam,USD
+2026-03-23,1414,AWS Lambda,us-west-2,Production,35.08,Storage,Reserved,FinOps,DevOps,USD
+2026-03-23,1400,Amazon RDS,us-west-2,QA,85.33,Network,Spot,WebApp,DataTeam,USD
+2026-03-23,1833,Amazon S3,us-east-1,QA,5.34,Network,Spot,WebApp,Miguel,USD
+2026-03-23,1491,Amazon S3,us-west-2,Dev,91.71,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-23,1244,Amazon RDS,eu-central-1,Dev,23.13,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-23,1357,Amazon EC2,us-west-2,Production,10.66,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-23,1477,Amazon S3,us-west-2,Dev,13.46,Storage,Spot,WebApp,DevOps,USD
+2026-03-23,1049,Amazon EC2,us-west-2,QA,79.15,Network,Reserved,Analytics,DataTeam,USD
+2026-03-24,1605,Amazon S3,us-east-1,QA,48.27,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-24,1879,Amazon S3,us-east-1,Production,32.04,Storage,On-Demand,FinOps,DevOps,USD
+2026-03-24,1101,CloudFront,us-west-2,QA,78.09,Storage,Spot,Analytics,DataTeam,USD
+2026-03-24,1742,AWS Lambda,eu-central-1,Dev,5.2,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-24,1293,Amazon RDS,us-east-1,Production,90.93,Compute,Spot,WebApp,DevOps,USD
+2026-03-24,1558,AWS Lambda,eu-central-1,QA,10.04,Storage,Spot,Analytics,Miguel,USD
+2026-03-24,1521,AWS Lambda,us-west-2,Dev,37.91,Network,Spot,Analytics,Miguel,USD
+2026-03-24,1212,CloudFront,eu-central-1,Dev,52.23,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-24,1818,Amazon S3,us-east-1,Dev,66.53,Compute,Reserved,FinOps,DevOps,USD
+2026-03-24,1240,AWS Lambda,us-west-2,Production,19.55,Network,Reserved,WebApp,DataTeam,USD
+2026-03-24,1174,Amazon EC2,eu-central-1,Dev,27.55,Compute,Reserved,Analytics,DevOps,USD
+2026-03-24,1090,Amazon RDS,us-west-2,Production,31.1,Network,Reserved,Analytics,Miguel,USD
+2026-03-24,1765,Amazon EC2,us-west-2,Dev,35.74,Network,Spot,Analytics,Miguel,USD
+2026-03-24,1739,Amazon RDS,eu-central-1,Dev,99.94,Storage,Spot,FinOps,DataTeam,USD
+2026-03-24,1422,AWS Lambda,us-west-2,Production,18.69,Compute,Reserved,Analytics,DevOps,USD
+2026-03-24,1311,Amazon S3,us-west-2,Production,29.26,Compute,Reserved,FinOps,DevOps,USD
+2026-03-24,1853,Amazon EC2,us-west-2,Production,31.99,Network,On-Demand,Analytics,DataTeam,USD
+2026-03-24,1993,Amazon S3,us-west-2,Dev,18.76,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-24,1932,CloudFront,us-west-2,Dev,97.53,Network,Reserved,WebApp,DevOps,USD
+2026-03-24,1863,Amazon EC2,eu-central-1,Production,54.78,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-25,1338,Amazon EC2,us-west-2,Production,48.87,Storage,On-Demand,Analytics,DevOps,USD
+2026-03-25,1431,AWS Lambda,us-east-1,Production,76.04,Network,On-Demand,WebApp,DevOps,USD
+2026-03-25,1605,CloudFront,us-east-1,Production,14.85,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-25,1297,Amazon S3,eu-central-1,Dev,27.37,Compute,Spot,Analytics,DevOps,USD
+2026-03-25,1255,Amazon S3,us-west-2,Dev,48.94,Network,Spot,Analytics,Miguel,USD
+2026-03-25,1754,Amazon RDS,us-west-2,Dev,55.52,Network,On-Demand,FinOps,Miguel,USD
+2026-03-25,1719,CloudFront,eu-central-1,Production,16.55,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-25,1846,Amazon EC2,eu-central-1,Dev,51.94,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-25,1807,Amazon RDS,eu-central-1,QA,99.25,Network,On-Demand,Analytics,DataTeam,USD
+2026-03-25,1898,AWS Lambda,us-west-2,Production,89.75,Compute,Reserved,FinOps,DataTeam,USD
+2026-03-25,1179,Amazon S3,us-east-1,QA,45.64,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-25,1886,Amazon EC2,us-east-1,QA,83.4,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-25,1254,AWS Lambda,eu-central-1,Dev,87.22,Storage,Spot,FinOps,DevOps,USD
+2026-03-25,1914,Amazon RDS,us-west-2,Production,60.42,Network,Spot,WebApp,DataTeam,USD
+2026-03-25,1800,Amazon S3,eu-central-1,QA,16.2,Network,Spot,Analytics,DevOps,USD
+2026-03-25,1040,CloudFront,us-east-1,Dev,56.67,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-25,1293,AWS Lambda,us-west-2,Dev,30.8,Network,Reserved,Analytics,DevOps,USD
+2026-03-25,1427,Amazon EC2,eu-central-1,Dev,5.94,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-25,1549,CloudFront,eu-central-1,Production,18.26,Storage,Spot,FinOps,DevOps,USD
+2026-03-25,1952,Amazon S3,us-east-1,QA,6.7,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-26,1839,Amazon RDS,us-east-1,QA,24.8,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-26,1042,Amazon S3,us-east-1,Production,87.76,Network,Reserved,WebApp,Miguel,USD
+2026-03-26,1346,AWS Lambda,us-east-1,Dev,61.44,Compute,Reserved,FinOps,DevOps,USD
+2026-03-26,1077,Amazon RDS,eu-central-1,QA,63.4,Network,Spot,Analytics,Miguel,USD
+2026-03-26,1721,Amazon RDS,us-west-2,Production,75.53,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-26,1693,Amazon EC2,eu-central-1,Production,76.33,Network,Spot,FinOps,DataTeam,USD
+2026-03-26,1512,CloudFront,us-east-1,QA,25.37,Storage,Reserved,FinOps,DevOps,USD
+2026-03-26,1689,Amazon EC2,eu-central-1,Dev,42.28,Network,Spot,Analytics,DevOps,USD
+2026-03-26,1774,Amazon EC2,us-east-1,Production,93.78,Network,Reserved,Analytics,Miguel,USD
+2026-03-26,1345,Amazon S3,us-west-2,QA,74.37,Storage,Reserved,FinOps,DevOps,USD
+2026-03-26,1582,Amazon EC2,us-west-2,QA,71.94,Network,Spot,FinOps,DevOps,USD
+2026-03-26,1080,CloudFront,eu-central-1,Production,76.11,Network,Spot,WebApp,DevOps,USD
+2026-03-26,1058,Amazon EC2,us-east-1,Production,18.59,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-26,1428,Amazon EC2,us-west-2,QA,8.67,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-26,1756,CloudFront,eu-central-1,QA,40.22,Storage,Reserved,WebApp,Miguel,USD
+2026-03-26,1710,Amazon EC2,us-west-2,QA,60.98,Network,Reserved,Analytics,DevOps,USD
+2026-03-26,1975,Amazon EC2,us-west-2,Production,35.09,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-26,1409,Amazon EC2,us-west-2,QA,32.09,Network,Spot,Analytics,DataTeam,USD
+2026-03-26,1192,Amazon S3,us-west-2,Dev,99.7,Storage,Spot,Analytics,Miguel,USD
+2026-03-26,1922,Amazon RDS,us-east-1,Production,98.19,Network,On-Demand,FinOps,DataTeam,USD
+2026-03-27,1406,Amazon RDS,eu-central-1,QA,39.6,Network,On-Demand,WebApp,DevOps,USD
+2026-03-27,1676,Amazon EC2,us-east-1,QA,63.08,Compute,Reserved,FinOps,DevOps,USD
+2026-03-27,1443,Amazon RDS,eu-central-1,Dev,53.97,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-27,1668,Amazon RDS,us-east-1,Dev,66.42,Compute,On-Demand,Analytics,DevOps,USD
+2026-03-27,1596,CloudFront,us-east-1,QA,9.55,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-27,1379,AWS Lambda,eu-central-1,Dev,60.82,Compute,Reserved,Analytics,DataTeam,USD
+2026-03-27,1735,AWS Lambda,us-east-1,QA,78.29,Network,Spot,Analytics,DataTeam,USD
+2026-03-27,1271,CloudFront,us-east-1,QA,51.91,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-27,1714,AWS Lambda,us-east-1,QA,13.08,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-27,1917,Amazon S3,us-east-1,Production,46.16,Compute,Spot,FinOps,Miguel,USD
+2026-03-27,1832,Amazon S3,us-west-2,QA,28.98,Storage,On-Demand,FinOps,DataTeam,USD
+2026-03-27,1948,Amazon S3,us-west-2,Production,94.52,Network,Spot,Analytics,DevOps,USD
+2026-03-27,1242,Amazon RDS,us-west-2,Production,61.61,Compute,Spot,Analytics,Miguel,USD
+2026-03-27,1674,AWS Lambda,us-west-2,Dev,72.03,Network,Spot,WebApp,Miguel,USD
+2026-03-27,1967,CloudFront,us-west-2,QA,17.8,Network,Reserved,FinOps,DataTeam,USD
+2026-03-27,1451,Amazon EC2,us-east-1,Production,22.5,Storage,On-Demand,WebApp,DataTeam,USD
+2026-03-27,1398,CloudFront,eu-central-1,Dev,29.27,Storage,Reserved,FinOps,DevOps,USD
+2026-03-27,1526,CloudFront,us-west-2,Dev,80.91,Compute,Spot,FinOps,DataTeam,USD
+2026-03-27,1591,Amazon RDS,eu-central-1,Production,89.46,Storage,Spot,Analytics,DevOps,USD
+2026-03-27,1188,Amazon S3,us-east-1,QA,64.46,Compute,On-Demand,WebApp,Miguel,USD
+2026-03-28,1885,Amazon EC2,eu-central-1,Production,62.58,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-28,1475,Amazon S3,eu-central-1,Dev,23.65,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-28,1529,Amazon S3,eu-central-1,Dev,99.08,Storage,Reserved,FinOps,Miguel,USD
+2026-03-28,1082,AWS Lambda,us-east-1,Production,14.52,Compute,Spot,Analytics,Miguel,USD
+2026-03-28,1947,AWS Lambda,us-west-2,Production,70.98,Network,On-Demand,Analytics,Miguel,USD
+2026-03-28,1188,Amazon S3,us-east-1,QA,70.61,Network,Reserved,FinOps,Miguel,USD
+2026-03-28,1329,Amazon EC2,us-west-2,Production,95.8,Network,Spot,FinOps,DataTeam,USD
+2026-03-28,1627,Amazon RDS,us-west-2,Dev,20.24,Network,On-Demand,FinOps,Miguel,USD
+2026-03-28,1438,AWS Lambda,eu-central-1,Dev,66.88,Compute,Spot,Analytics,DataTeam,USD
+2026-03-28,1939,AWS Lambda,us-west-2,QA,52.04,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-28,1030,Amazon S3,us-east-1,Dev,15.14,Network,Reserved,FinOps,DataTeam,USD
+2026-03-28,1370,AWS Lambda,us-east-1,Production,33.19,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-28,1901,CloudFront,us-west-2,Dev,64.12,Storage,On-Demand,WebApp,DevOps,USD
+2026-03-28,1330,Amazon S3,us-east-1,QA,69.62,Storage,Spot,WebApp,DataTeam,USD
+2026-03-28,1330,AWS Lambda,eu-central-1,QA,78.3,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-28,1640,Amazon RDS,eu-central-1,Dev,71.73,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-28,1242,CloudFront,us-east-1,QA,38.62,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-28,1329,Amazon RDS,us-west-2,Production,41.99,Network,Spot,FinOps,DataTeam,USD
+2026-03-28,1890,Amazon S3,us-west-2,QA,29.02,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-28,1989,Amazon S3,eu-central-1,Production,9.09,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-29,1626,CloudFront,eu-central-1,Dev,21.62,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-29,1782,AWS Lambda,us-east-1,Production,89.62,Network,Spot,FinOps,Miguel,USD
+2026-03-29,1402,Amazon S3,eu-central-1,Production,9.97,Network,Reserved,WebApp,DevOps,USD
+2026-03-29,1061,AWS Lambda,eu-central-1,QA,38.91,Storage,On-Demand,Analytics,DataTeam,USD
+2026-03-29,1846,Amazon EC2,eu-central-1,QA,86.76,Storage,On-Demand,Analytics,Miguel,USD
+2026-03-29,1214,Amazon S3,eu-central-1,Dev,51.02,Compute,On-Demand,Analytics,Miguel,USD
+2026-03-29,1096,Amazon EC2,us-west-2,Production,6.47,Network,On-Demand,WebApp,DevOps,USD
+2026-03-29,1793,CloudFront,us-west-2,Dev,94.79,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-29,1169,AWS Lambda,eu-central-1,Dev,72.68,Storage,Spot,FinOps,Miguel,USD
+2026-03-29,1676,Amazon RDS,us-east-1,QA,43.6,Compute,Reserved,FinOps,Miguel,USD
+2026-03-29,1772,Amazon EC2,us-west-2,Production,61.57,Storage,On-Demand,WebApp,Miguel,USD
+2026-03-29,1791,Amazon S3,us-east-1,Production,28.9,Storage,On-Demand,Analytics,DevOps,USD
+2026-03-29,1526,CloudFront,us-west-2,QA,9.67,Compute,Spot,Analytics,DataTeam,USD
+2026-03-29,1624,AWS Lambda,us-east-1,Production,96.54,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-29,1338,Amazon RDS,us-east-1,Production,17.48,Network,Spot,WebApp,Miguel,USD
+2026-03-29,1982,Amazon EC2,us-west-2,Dev,90.97,Storage,Spot,WebApp,Miguel,USD
+2026-03-29,1902,CloudFront,us-east-1,Dev,49.71,Network,Spot,WebApp,DevOps,USD
+2026-03-29,1621,Amazon RDS,us-east-1,QA,10.67,Storage,Reserved,WebApp,Miguel,USD
+2026-03-29,1206,AWS Lambda,us-east-1,Production,65.24,Storage,Reserved,FinOps,DevOps,USD
+2026-03-29,1288,Amazon S3,eu-central-1,Dev,45.23,Compute,On-Demand,FinOps,Miguel,USD
+2026-03-30,1148,Amazon RDS,eu-central-1,Production,66.39,Network,On-Demand,WebApp,DataTeam,USD
+2026-03-30,1901,CloudFront,us-east-1,Dev,90.71,Storage,Reserved,FinOps,DataTeam,USD
+2026-03-30,1567,Amazon S3,eu-central-1,Production,95.15,Storage,Reserved,WebApp,Miguel,USD
+2026-03-30,1729,Amazon S3,eu-central-1,QA,70.38,Storage,Spot,Analytics,DataTeam,USD
+2026-03-30,1624,Amazon RDS,us-west-2,QA,6.92,Compute,Reserved,FinOps,DevOps,USD
+2026-03-30,1148,Amazon EC2,eu-central-1,Production,44.49,Network,On-Demand,WebApp,DevOps,USD
+2026-03-30,1753,CloudFront,us-east-1,Dev,11.83,Network,Spot,Analytics,DevOps,USD
+2026-03-30,1167,Amazon S3,us-west-2,QA,60.13,Compute,On-Demand,WebApp,DevOps,USD
+2026-03-30,1270,Amazon S3,us-east-1,Production,94.65,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-30,1508,Amazon RDS,eu-central-1,Production,97.81,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-30,1414,AWS Lambda,us-east-1,Dev,59.06,Storage,Spot,WebApp,DataTeam,USD
+2026-03-30,1085,Amazon S3,eu-central-1,Dev,75.72,Storage,Spot,FinOps,Miguel,USD
+2026-03-30,1197,Amazon RDS,eu-central-1,Dev,36.07,Storage,Spot,Analytics,Miguel,USD
+2026-03-30,1285,CloudFront,us-east-1,QA,98.86,Compute,Spot,Analytics,DevOps,USD
+2026-03-30,1348,Amazon EC2,eu-central-1,QA,18.45,Storage,Reserved,WebApp,Miguel,USD
+2026-03-30,1922,CloudFront,us-east-1,Dev,9.99,Storage,Reserved,WebApp,DevOps,USD
+2026-03-30,1188,Amazon EC2,us-west-2,QA,77.66,Storage,Spot,Analytics,DataTeam,USD
+2026-03-30,1199,CloudFront,eu-central-1,QA,30.37,Network,Reserved,WebApp,Miguel,USD
+2026-03-30,1742,Amazon EC2,us-east-1,Production,58.05,Network,Spot,FinOps,DevOps,USD
+2026-03-30,1213,AWS Lambda,us-west-2,Production,6.84,Storage,On-Demand,FinOps,DevOps,USD
+2026-03-31,1986,Amazon RDS,us-east-1,Dev,35.15,Compute,On-Demand,WebApp,DataTeam,USD
+2026-03-31,1714,Amazon EC2,eu-central-1,Dev,90.22,Network,Spot,WebApp,DataTeam,USD
+2026-03-31,1000,CloudFront,us-east-1,Production,90.1,Compute,Reserved,WebApp,Miguel,USD
+2026-03-31,1491,AWS Lambda,eu-central-1,Production,28.83,Network,Spot,FinOps,DataTeam,USD
+2026-03-31,1437,CloudFront,us-west-2,Production,19.24,Storage,Spot,WebApp,DevOps,USD
+2026-03-31,1044,AWS Lambda,us-east-1,Production,9.2,Network,Spot,Analytics,DataTeam,USD
+2026-03-31,1818,Amazon S3,us-west-2,QA,65.2,Storage,Reserved,WebApp,DataTeam,USD
+2026-03-31,1206,Amazon S3,us-west-2,Production,60.83,Compute,Reserved,FinOps,DevOps,USD
+2026-03-31,1662,Amazon S3,us-east-1,Production,48.52,Compute,Spot,FinOps,DataTeam,USD
+2026-03-31,1513,Amazon EC2,us-west-2,QA,73.83,Network,Reserved,FinOps,DataTeam,USD
+2026-03-31,1647,Amazon EC2,eu-central-1,QA,11.45,Network,On-Demand,Analytics,DevOps,USD
+2026-03-31,1657,Amazon EC2,eu-central-1,Dev,68.11,Network,On-Demand,WebApp,Miguel,USD
+2026-03-31,1368,Amazon S3,us-west-2,Production,27.03,Compute,On-Demand,FinOps,DataTeam,USD
+2026-03-31,1242,Amazon S3,eu-central-1,Production,15.89,Storage,Reserved,Analytics,DataTeam,USD
+2026-03-31,1896,AWS Lambda,us-west-2,Dev,92.75,Compute,On-Demand,Analytics,DataTeam,USD
+2026-03-31,1826,Amazon S3,us-west-2,Production,75.59,Storage,Reserved,Analytics,DevOps,USD
+2026-03-31,1690,Amazon RDS,us-east-1,Production,94.9,Storage,On-Demand,FinOps,Miguel,USD
+2026-03-31,1704,CloudFront,us-west-2,Dev,96.61,Network,Spot,WebApp,DevOps,USD
+2026-03-31,1926,AWS Lambda,eu-central-1,Production,35.41,Storage,Spot,Analytics,DataTeam,USD
+2026-03-31,1234,Amazon RDS,us-west-2,Production,28.19,Network,Reserved,FinOps,DataTeam,USD
